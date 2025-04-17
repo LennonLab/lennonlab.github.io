@@ -1,0 +1,34 @@
+title: "Lennon Lab"
+description: "Website for the Lennon Lab"
+baseurl: "" # Leave this empty if using a user/organization GitHub Pages site
+url: "https://lennonlab3.github.io"
+
+# Theme skin (like “air”)
+minimal_mistakes_skin: "air"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# SASS settings (required for building main.css)
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Include these folders when building
+include:
+  - _pages
+  - _sass
+  - assets
+
+# Tell Jekyll to build our main.scss manually
+defaults:
+  - scope:
+      path: "assets/css"
+      type: "scss"
+    values:
+      layout: null
