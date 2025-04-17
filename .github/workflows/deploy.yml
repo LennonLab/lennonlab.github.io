@@ -13,8 +13,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # IMPORTANT: Do NOT fetch submodules to avoid remote ref errors
-          submodules: false
           fetch-depth: 0
 
       - name: Set up Ruby
@@ -28,7 +26,7 @@ jobs:
           bundle config set path 'vendor/bundle'
           bundle install
 
-      - name: Build the site
+      - name: Build site
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
@@ -36,4 +34,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          publish_branch: main
+          force_orphan: true
 
