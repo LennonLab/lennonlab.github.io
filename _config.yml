@@ -1,6 +1,6 @@
 title: "Lennon Lab"
 description: "Website for the Lennon Lab"
-baseurl: "" # Leave this empty if using a user/organization GitHub Pages site
+baseurl: "/lennonlab3.github.io"
 url: "https://lennonlab3.github.io"
 repository: "LennonLab/lennonlab3.github.io"
 
