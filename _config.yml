@@ -2,10 +2,26 @@ title: "Lennon Lab"
 description: "Website for the Lennon Lab"
 baseurl: "" # Leave this empty if using a user/organization GitHub Pages site
 url: "https://lennonlab3.github.io"
+repository: "LennonLab/lennonlab3.github.io"
 
 # Theme skin (like “air”)
 minimal_mistakes_skin: "air"
 
+# Teaser image
+teaser: "/assets/images/plaques.png"
+
+# Author info
+author:
+  avatar: "/assets/images/plaques.png"
+  location: "Bloomington, Indiana"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lennonj@iu.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LennonLab"
+      
 # Plugins
 plugins:
   - jekyll-paginate
