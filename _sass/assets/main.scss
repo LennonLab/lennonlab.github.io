@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+// Load skin first
+@import "minimal-mistakes/skins/air";
+
+// Load the rest of the theme
+@import "minimal-mistakes";
+
+// Diagnostic
+//body {
+//  background: pink !important;
+//  content: "DEBUG SCSS COMPILED";
+//}
