@@ -13,7 +13,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          # IMPORTANT: Do NOT fetch submodules to avoid remote ref errors
+          submodules: false
           fetch-depth: 0
 
       - name: Set up Ruby
@@ -27,7 +28,7 @@ jobs:
           bundle config set path 'vendor/bundle'
           bundle install
 
-      - name: Build site
+      - name: Build the site
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
