@@ -40,10 +40,14 @@ header:
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
     <strong>Jay T. Lennon</strong><br>
-    Principal Investigator <br> Research Interests: Ecology, evolution, and biodiversity of microbial systems <br> <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857">Google Scholar</a> <br> <a href="https://orcid.org/0000-0003-3126-6111">ORCiD</a><br>
-    <a href="/cv/">CV</a><br>
+    <strong>Principal Investigator</strong><br> 
+    <em>Research Interests</em>: Ecology, evolution, and biodiversity of microbial systems<br>
+    <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a><br>
+    <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a><br>
+    <a href="/assets/docs/Lennon_CV.pdf" class="btn btn--primary" style="margin-top: 0.5rem; display: inline-block;">CV</a>
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
