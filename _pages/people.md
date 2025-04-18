@@ -153,9 +153,16 @@ header:
   </div>
 </div>
 
-<hr>
+<div class="person-row">
+  <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
+  <div class="person-text">
+    <strong>James Batides</strong><br>
+    Undergraduate student <br> Research Interests: Bacteria, phage, evolution<br>
+    
+  </div>
+</div>
 
-## Former Lab Members
+<hr>
 
 ## Former Lab Members
 
