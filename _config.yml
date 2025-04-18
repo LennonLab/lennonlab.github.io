@@ -14,6 +14,7 @@ teaser: "/assets/images/plaques.png"
 author:
   avatar: "/assets/images/plaques.png"
   location: "Bloomington, Indiana"
+  location_url: "https://maps.app.goo.gl/t8mdvsz7m3T57LYC8"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
