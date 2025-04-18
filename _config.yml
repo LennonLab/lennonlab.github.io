@@ -1,7 +1,7 @@
 title: "Lennon Lab"
 description: "Website for the Lennon Lab"
-baseurl: "/lennonlab3.github.io"
-url: "https://lennonlab3.github.io"
+baseurl: "/lennonlab.github.io"
+url: "https://lennonlab.github.io"
 repository: "LennonLab/lennonlab3.github.io"
 
 # Theme skin (like “air”)
