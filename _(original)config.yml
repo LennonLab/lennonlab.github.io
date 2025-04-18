@@ -21,23 +21,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LennonLab"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/jaytlennon.bsky.social"
       
-
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/LennonLab"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/jaytlennon.bsky.social"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lennonj@iu.edu"    
 # Plugins
 plugins:
   - jekyll-paginate
