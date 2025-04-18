@@ -6,141 +6,156 @@ permalink: /people/
 author_profile: true
 header:
   image: /assets/images/megaterium.jpg
-feature_row1:
-  - image_path: /assets/images/JayHead.png
-    alt: "Jay"
-    title: "Jay T. Lennon"
-    excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Ecology, evolution, and biodiversity of microbial systems <br>
-              [Google Scholar](https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857) <br>
-              [ORCiD](https://orcid.org/0000-0003-3126-6111)"
-    url: "/cv/"
-    btn_class: "btn--primary"
-    btn_label: "   CV   "
-
-feature_row2:
-  - image_path: /assets/images/LuoHead.png
-    alt: "Jipeng"
-    title: "Jipeng Luo"
-    excerpt: "**Postdoctoral researcher** <br> 
-              *Research Interests*: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation"
-              
-feature_row3:
-  - image_path: /assets/images/BuerenHead.png
-    alt: "Emma"
-    title: "Emma Bueren"
-    excerpt: "**Postdoctoral researcher** <br> 
-              *Research Interests*: Bactere-phage evolutionary ecology, nested symbioses, host microbiomes"
-              
-feature_row4:
-  - image_path: /assets/images/KangHead.png
-    alt: "Sungyun"
-    title: "Sungyun Kang"
-    excerpt: "**Research Associate** <br> 
-              *Research Interests*: Molecular genetics, genomics, cell biology, transcription factors "
-
-feature_row5:
-  - image_path: /assets/images/MuellerHead.png
-    alt: "Emmi"
-    title: "Emmi Mueller"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Physical complexity and microbial communities [website](https://emmiamueller.weebly.com/)"
-
-feature_row6:
-  - image_path: /assets/images/OBrienHead.png
-    alt: "Joy"
-    title: "Joy O'Brien"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Microbial dormancy, permafrost soils, and global change in the Arctic"
-              
-feature_row7:
-  - image_path: /assets/images/ParkHead.png
-    alt: "El"
-    title: "El Park"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations"
-              
-              
-feature_row8:
-  - image_path: /assets/images/LennonAHead.png
-    alt: "Anna"
-    title: "Anna Lennon"
-    excerpt: "**Ph.D. student** <br> 
-              *Research Interests*: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life"
-
-
-feature_row9:
-  - image_path: /assets/images/EdwardsHead.png
-    alt: "Kaliyah"
-    title: "Kaliyah Edwards"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbial ecology and host-phage coevolution across plant and soil habitats"
-              
-feature_row10:
-  - image_path: /assets/images/MugooviHead.png
-    alt: "Henock"
-    title: "Henock Mugoovi"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Infection dynamics and evolution of legume-associated rhizobia in response to phage"
-              
-feature_row11:
-  - image_path: /assets/images/HamzaHead.png
-    alt: "Sabri"
-    title: "Sabri Hamza"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Computational biology, imaging technology, host-virus interactions"
-               
-feature_row12:
-  - image_path: /assets/images/SimiHead.png
-    alt: "Mariana"
-    title: "Mariana Simi"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Microbiomes, thermal adapation, soil feedbacks"
-
-feature_row13:
-  - image_path: /assets/images/RadfordHead.png
-    alt: "Nicholas"
-    title: "Nicholas Radford"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Division of labor, microbial mutualisms"
- 
-feature_row14:
-  - image_path: /assets/images/BatidesHead.png
-    alt: "James"
-    title: "James Batides"
-    excerpt: "**Undergraduate student** <br> 
-              *Research Interests*: Bacteria, phage, evolution"
-
 ---
-{% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+<style>
+  .people-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
 
-{% include feature_row id="feature_row3" type="left" %}
+  .person-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    gap: 1.5rem;
+  }
 
-{% include feature_row id="feature_row4" type="left" %}
+  .person-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 
-{% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="left" %}
-
-{% include feature_row id="feature_row8" type="left" %}
-
-{% include feature_row id="feature_row9" type="left" %}
-
-{% include feature_row id="feature_row10" type="left" %}
-
-{% include feature_row id="feature_row11" type="left" %}
-
-{% include feature_row id="feature_row12" type="left" %}
-
-{% include feature_row id="feature_row13" type="left" %}
-
-{% include feature_row id="feature_row14" type="left" %}
+  .person-text a {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+</style>
 
 
+<div class="person-row">
+  <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
+  <div class="person-text">
+    <strong>Jay T. Lennon</strong><br>
+    Principal Investigator <br> Research Interests: Ecology, evolution, and biodiversity of microbial systems <br> <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en&inst=13098912254855678857">Google Scholar</a> <br> <a href="https://orcid.org/0000-0003-3126-6111">ORCiD</a><br>
+    <a href="/cv/">CV</a><br>
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
+  <div class="person-text">
+    <strong>Jipeng Luo</strong><br>
+    Postdoctoral researcher <br> Research Interests: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
+  <div class="person-text">
+    <strong>Emma Bueren</strong><br>
+    Postdoctoral researcher <br> Research Interests: Bactere-phage evolutionary ecology, nested symbioses, host microbiomes<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
+  <div class="person-text">
+    <strong>Sungyun Kang</strong><br>
+    Research Associate <br> Research Interests: Molecular genetics, genomics, cell biology, transcription factors<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/MuellerHead.png' | relative_url }}" class="people-img" alt="Emmi">
+  <div class="person-text">
+    <strong>Emmi Mueller</strong><br>
+    Ph.D. student <br> Research Interests: Physical complexity and microbial communities <a href="https://emmiamueller.weebly.com/">website</a><br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
+  <div class="person-text">
+    <strong>Joy O'Brien</strong><br>
+    Ph.D. student <br> Research Interests: Microbial dormancy, permafrost soils, and global change in the Arctic<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
+  <div class="person-text">
+    <strong>El Park</strong><br>
+    Ph.D. student <br> Research Interests: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/LennonAHead.png' | relative_url }}" class="people-img" alt="Anna">
+  <div class="person-text">
+    <strong>Anna Lennon</strong><br>
+    Ph.D. student <br> Research Interests: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/EdwardsHead.png' | relative_url }}" class="people-img" alt="Kaliyah">
+  <div class="person-text">
+    <strong>Kaliyah Edwards</strong><br>
+    Undergraduate student <br> Research Interests: Microbial ecology and host-phage coevolution across plant and soil habitats<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
+  <div class="person-text">
+    <strong>Henock Mugoovi</strong><br>
+    Undergraduate student <br> Research Interests: Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/HamzaHead.png' | relative_url }}" class="people-img" alt="Sabri">
+  <div class="person-text">
+    <strong>Sabri Hamza</strong><br>
+    Undergraduate student <br> Research Interests: Computational biology, imaging technology, host-virus interactions<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
+  <div class="person-text">
+    <strong>Mariana Simi</strong><br>
+    Undergraduate student <br> Research Interests: Microbiomes, thermal adapation, soil feedbacks<br>
+    
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/RadfordHead.png' | relative_url }}" class="people-img" alt="Nicholas">
+  <div class="person-text">
+    <strong>Nicholas Radford</strong><br>
+    Undergraduate student <br> Research Interests: Division of labor, microbial mutualisms<br>
+    
+  </div>
+</div>
+
+<hr>
+
+## Former Lab Members
 
 ## Former Lab Members
 
