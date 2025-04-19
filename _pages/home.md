@@ -10,11 +10,12 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plaques.png
   overlay_filter: 0.30
-excerpt: 
-  Evolutionary ecology of microbial life <br>
+excerpt: >
+  <div style="font-size: 2rem;">
+    Evolutionary ecology of microbial life
+  </div>
   <!--Department of Biology <br>-->
   <!--Indiana University<br>-->
-
 ---
 
 Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of engineered, environmental, and host-associated ecosystems. 
