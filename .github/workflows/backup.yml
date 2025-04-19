@@ -1,0 +1,22 @@
+name: Scheduled Backup
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
+  workflow_dispatch:      # Allow manual run too
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Mirror push to backup repo
+        run: |
+          git config --global user.name "GitHub Backup Bot"
+          git config --global user.email "backup@github.com"
+
+          git remote add backup https://x-access-token:${{ secrets.BACKUP_TOKEN }}@github.com/LennonLab/lennonlab-backup.git
+          git push --mirror backup
+
