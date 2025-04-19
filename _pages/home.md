@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: " "
 classes:
   - landing
   - dark-theme
