@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/plaques.png
   overlay_filter: 0.30
 excerpt: >
-  <div style="font-size: 2rem;">
+  <div class="page__lead" style="font-size: 1.6rem;">
     Evolutionary ecology of microbial life
   </div>
   <!--Department of Biology <br>-->
