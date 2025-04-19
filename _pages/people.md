@@ -218,7 +218,7 @@ header:
 
 #### Research Technicians and Assistants
 ---
-*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician><br>
+*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician<br>
 
 *[Brent Lehmkuhl](https://www.linkedin.com/in/brent-lehmkuhl-764b3b127/)*, Technician<br>
 
@@ -226,7 +226,7 @@ header:
 
 *[Emily Long](https://publichealth.indiana.edu/about/directory/Emily-Long-longemi.html)*, Technician<br>
 
-*Kyle Miller*, Technician<br>
+*[Kyle Miller](https://www.linkedin.com/in/kyle-miller-3b3899126/)*, Technician<br>
 
 *[McKenzie Givens](https://scholar.google.com/citations?user=K1BqhhEAAAAJ&hl=en&inst=13098912254855678857)*, Technician<br>
 
@@ -234,15 +234,15 @@ header:
 
 *[Evgeniya Polezhaeva](https://www.linkedin.com/in/evgeniya-polezhaeva-61772067/)*, Technician<br>
 
-*Sophie Kranke*, Technician<br>
+*[Sophie Krahnke](https://www.linkedin.com/in/sophie-krahnke-a17219141/)*, Technician<br>
 
 *[Sarah Widney](https://www.linkedin.com/in/sarah-widney-5555498a/)*, Technician<br>
 
-*Sarah Kuenzel*, Technician<br>
+*[Sarah Kuenzel](https://www.linkedin.com/in/sarah-farrell-6148494b/)*, Technician<br>
 
 *[Brent Nowinski](https://scholar.google.com/citations?user=TY9CTLQAAAAJ&hl=en&inst=13098912254855678857)*, Technician<br>
 
-*Megan Lowenberg*, Technician<br>
+*[Megan Lowenberg](https://www.linkedin.com/in/megan-carroll-3294aa208/)*, Technician<br>
 
 *[Lewis Wooster](https://www.linkedin.com/in/lewis-ellis-wooster/)*, Technician<br>
 
@@ -282,13 +282,13 @@ header:
 
 *[Melih Çakar](https://www.linkedin.com/in/melih-%C3%A7akar/?originalSubdomain=de)*, Middle East Technical University<br>
 
-*[Danni Boylan*](https://monarcaacademy.org/elementor-88/), Indiana University<br>
+*[Danni Boylan](https://monarcaacademy.org/elementor-88/)*, Indiana University<br>
 
 *[Bryan Julijanto](https://www.researchgate.net/profile/Bryan-Julijanto)*, Indiana University<br>
 
 *[Elizabeth ("Betsy") Snider](https://www.researchgate.net/scientific-contributions/Elizabeth-V-Snider-2216686211)*, Indiana University<br>
 
-*Katarina Walker*, Indiana University<br>
+*[Katarina Walker](https://www.linkedin.com/in/katarina-malone-59a817199/)*, Indiana University<br>
 
 *[Kelsey McKenzie](https://www.linkedin.com/in/kelsey-mckenzie-8771b3139/)*, Indiana University<br>
 
