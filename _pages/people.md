@@ -40,9 +40,11 @@ header:
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
     <strong>Jay T. Lennon</strong><br>
-    Principal Investigator <br> Research Interests</em>: Ecology, evolution, and biodiversity of microbial systems <br>
-    <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a><br>
-    <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a><br>
+    Principal Investigator <br> Research Interests: Ecology, evolution, and biodiversity of microbial systems <br>
+    <span>
+      <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a> |
+      <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>
+    </span><br>
     <div style="margin-top: 0.5rem;">
       <a href="/assets/docs/Lennon_CV.pdf" style="background-color: #007ACC; color: white; padding: 0.4em 1em; border-radius: 5px; text-decoration: none;">CV</a>
     </div>
@@ -114,28 +116,10 @@ header:
 </div>
 
 <div class="person-row">
-  <img src="{{ '/assets/images/EdwardsHead.png' | relative_url }}" class="people-img" alt="Kaliyah">
-  <div class="person-text">
-    <strong>Kaliyah Edwards</strong><br>
-    Undergraduate student <br> Research Interests: Microbial ecology and host-phage coevolution across plant and soil habitats<br>
-    
-  </div>
-</div>
-
-<div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
     <strong>Henock Mugoovi</strong><br>
     Undergraduate student <br> Research Interests: Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
-    
-  </div>
-</div>
-
-<div class="person-row">
-  <img src="{{ '/assets/images/HamzaHead.png' | relative_url }}" class="people-img" alt="Sabri">
-  <div class="person-text">
-    <strong>Sabri Hamza</strong><br>
-    Undergraduate student <br> Research Interests: Computational biology, imaging technology, host-virus interactions<br>
     
   </div>
 </div>
@@ -276,6 +260,10 @@ header:
 #### Undergraduate Researchers
 ---
 *Ali Ergül*, Boğaziçi University<br>
+
+*Kaliyah Edwards*, Indiana University<br>
+
+*Sabri Hamza*, Indiana University<br>
     
 *Michalle Mendoza*, University California Berkeley<br>
 
