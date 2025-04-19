@@ -17,8 +17,7 @@ Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R,
 
 
 <!--- pub entry --->
-Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. bioRxiv [doi: 10.1101/2024.11.10.622857 ](https://www.biorxiv.org/content/10.1101/2024.11.10.622857v1.full.pdf) (In press at mSystems)
-
+Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. mSystems: 10 10.1128/msystems.01517-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025b.pdf))
 
 <!--- pub entry --->
 Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Micobial solutions for climate change — Toward and economically resilient future. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025b.pdf))
