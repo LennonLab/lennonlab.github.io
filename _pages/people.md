@@ -40,7 +40,7 @@ header:
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
     <strong>Jay T. Lennon</strong><br>
-    Principal Investigator <br> Research Interests: Ecology, evolution, and biodiversity of microbial systems <br>
+    Principal Investigator <br> Ecology, evolution, and biodiversity of microbial systems <br>
     <span>
       <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a><a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>
     </span><br>
@@ -55,7 +55,7 @@ header:
   <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
   <div class="person-text">
     <strong>Jipeng Luo</strong><br>
-    Postdoctoral researcher <br> Research Interests: Ecology and evolution of microbial communities, plant-microbiome interactions, evolutionary genomics, soil remediation<br>
+    Postdoc <br> Plant-microbiome interactions, evolutionary genomics, soil remediation<br>
     
   </div>
 </div>
@@ -64,7 +64,7 @@ header:
   <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
   <div class="person-text">
     <strong>Emma Bueren</strong><br>
-    Postdoctoral researcher <br> Research Interests: Bactere-phage evolutionary ecology, nested symbioses, host microbiomes<br>
+    Postdoc <br> Bacterie-phage evolutionary ecology, nested symbioses, host microbiomes<br>
     
   </div>
 </div>
@@ -73,7 +73,7 @@ header:
   <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
   <div class="person-text">
     <strong>Sungyun Kang</strong><br>
-    Research Associate <br> Research Interests: Molecular genetics, genomics, cell biology, transcription factors<br>
+    Research Associate <br> Molecular genetics, genomics, cell biology, transcription factors<br>
     
   </div>
 </div>
@@ -82,7 +82,7 @@ header:
   <img src="{{ '/assets/images/MuellerHead.png' | relative_url }}" class="people-img" alt="Emmi">
   <div class="person-text">
     <strong>Emmi Mueller</strong><br>
-    Ph.D. student <br> Research Interests: Physical complexity and microbial communities <a href="https://emmiamueller.weebly.com/">website</a><br>
+    Ph.D. candidate <br> Physical complexity and microbial communities <a href="https://emmiamueller.weebly.com/">website</a><br>
     
   </div>
 </div>
@@ -91,7 +91,7 @@ header:
   <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
   <div class="person-text">
     <strong>Joy O'Brien</strong><br>
-    Ph.D. student <br> Research Interests: Microbial dormancy, permafrost soils, and global change in the Arctic<br>
+    Ph.D. student <br> Microbial dormancy, permafrost soils, and global change in the Arctic<br>
     
   </div>
 </div>
@@ -100,7 +100,7 @@ header:
   <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
   <div class="person-text">
     <strong>El Park</strong><br>
-    Ph.D. student <br> Research Interests: Intracellular mechanisms of sporulation and phage infections, division of labor in spore-forming populations<br>
+    Ph.D. student <br> Intracellular mechanisms of sporulation and phage infections<br>
     
   </div>
 </div>
@@ -109,7 +109,7 @@ header:
   <img src="{{ '/assets/images/LennonAHead.png' | relative_url }}" class="people-img" alt="Anna">
   <div class="person-text">
     <strong>Anna Lennon</strong><br>
-    Ph.D. student <br> Research Interests: Ecology and evolution of microbial communities, dormancy and pathogenesis, emergence of dormancy in the tree of life<br>
+    Ph.D. student <br> Dormancy, biofilms, and division of labor<br>
     
   </div>
 </div>
@@ -118,7 +118,7 @@ header:
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
     <strong>Henock Mugoovi</strong><br>
-    Undergraduate student <br> Research Interests: Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
+    Undergraduate <br> Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
     
   </div>
 </div>
@@ -127,7 +127,7 @@ header:
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
     <strong>Mariana Simi</strong><br>
-    Undergraduate student <br> Research Interests: Microbiomes, thermal adapation, soil feedbacks<br>
+    Undergraduate <br> Microbiomes, thermal adapation, soil feedbacks<br>
     
   </div>
 </div>
@@ -136,7 +136,7 @@ header:
   <img src="{{ '/assets/images/RadfordHead.png' | relative_url }}" class="people-img" alt="Nicholas">
   <div class="person-text">
     <strong>Nicholas Radford</strong><br>
-    Undergraduate student <br> Research Interests: Division of labor, microbial mutualisms<br>
+    Undergraduate <br> Division of labor, microbial mutualisms<br>
     
   </div>
 </div>
@@ -145,7 +145,7 @@ header:
   <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
   <div class="person-text">
     <strong>James Batides</strong><br>
-    Undergraduate student <br> Research Interests: Bacteria, phage, evolution<br>
+    Undergraduate <br> Bacteria, phage, evolution<br>
     
   </div>
 </div>
@@ -188,17 +188,17 @@ header:
 
 *[Megan Larsen](https://www.linkedin.com/in/meganllarsen/)*, Ph.D. (Data Scientist, Pivot Bio)<br>
 
-*[Ariane Peralta](https://www.peraltalab.com/)*, Postdoc (Associate Professor, East Carolina University)<br>
+*[Ariane Peralta](https://www.peraltalab.com/)*, Postdoc (Professor, East Carolina University)<br>
 
 *[Sarah Placella](https://www.linkedin.com/in/sarah-placella-0a21565/)*, Postdoc (CEO, Root Applied Sciences)<br>
 
-*[Stuart Jones](https://www3.nd.edu/~sjones20/)*, Postdoc (Professor, University of Notre Dame)<br>
+*[Stuart Jones](https://www.gvsu.edu/wri/faculty-websites-108.htm)*, Postdoc (Executive Director, Annis Water Resources Institute)<br>
 
 *[Ed Hall](https://www.nrel.colostate.edu/investigator/ed-hall-homepage/)*, Postdoc (Associate Professor, Colorado State University)<br>
 
 *[Zach Aanderud](https://pws.byu.edu/zach-aanderud-lab)*, Postdoc (Professor, Brigham Young University)<br>
 
-*[Evan Kane](https://www.mtu.edu/forest/about/faculty-staff/faculty/kane/)*, Postdoc (Associate Professor, Michigan Tech)<br>
+*[Evan Kane](https://www.mtu.edu/forest/about/faculty-staff/faculty/kane/)*, Postdoc (Professor, Michigan Tech)<br>
 
 *[Kali Bird](https://www.linkedin.com/in/kali-bird-0a039964/)*, MS (Deputy Executive Director, Catksill Center for Conservation and Development)<br>
 
@@ -206,61 +206,61 @@ header:
 
 #### Visiting Scholars and Teachers
 ---
-*Melany Fisk*, Professor, Miami University<br>
+*[Melany Fisk](https://miamioh.edu/profiles/cas/melany-fisk.html)*, Professor, Miami University<br>
 
-*Sarah Bray*, Professor, Transylvania University<br>
+*[Sarah Bray](https://www.transy.edu/academics/faculty/sbray/)*, Professor, Transylvania University<br>
 
-*Marty Green*, Teacher, Plainwell Middle School<br>
+*[Marty Green](https://www.linkedin.com/in/marty-green-668545103/)*, Teacher, Plainwell Middle School<br>
 
-*Sandy Erwin*, Teacher, Harper Creek High School<br>
+*[Sandy Erwin](https://www.linkedin.com/in/sandra-erwin-68b272a6/)*, Teacher, Harper Creek High School<br>
 
 
 
 #### Research Technicians and Assistants
 ---
-*Jasmine Ahmed*, Technician><br>
+*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician><br>
 
-*Brent Lehmkuhl*, Technician<br>
+*[Brent Lehmkuhl](https://www.linkedin.com/in/brent-lehmkuhl-764b3b127/)*, Technician<br>
 
-*Bezner Jonathan Gomez Dominguez*, Technician<br>
+*[Bezner Jonathan Gomez Dominguez](https://www.linkedin.com/in/bezner-gomezdominguez/)*, Technician<br>
 
-*Emily Long*, Technician<br>
+*[Emily Long](https://publichealth.indiana.edu/about/directory/Emily-Long-longemi.html)*, Technician<br>
 
 *Kyle Miller*, Technician<br>
 
-*McKenzie Givens*, Technician<br>
+*[McKenzie Givens](https://scholar.google.com/citations?user=K1BqhhEAAAAJ&hl=en&inst=13098912254855678857)*, Technician<br>
 
-*Steve Reynolds*, Technician<br>
+*[Steve Reynolds](https://www.linkedin.com/in/steven-reynolds-a6647223/)*, Technician<br>
 
-*Evgeniya Polezhaeva*, Technician<br>
+*[Evgeniya Polezhaeva](https://www.linkedin.com/in/evgeniya-polezhaeva-61772067/)*, Technician<br>
 
 *Sophie Kranke*, Technician<br>
 
-*Sarah Widney*, Technician<br>
+*[Sarah Widney](https://www.linkedin.com/in/sarah-widney-5555498a/)*, Technician<br>
 
 *Sarah Kuenzel*, Technician<br>
 
-*Brent Nowinski*, Technician<br>
+*[Brent Nowinski](https://scholar.google.com/citations?user=TY9CTLQAAAAJ&hl=en&inst=13098912254855678857)*, Technician<br>
 
 *Megan Lowenberg*, Technician<br>
 
-*Lewis Wooster*, Technician<br>
+*[Lewis Wooster](https://www.linkedin.com/in/lewis-ellis-wooster/)*, Technician<br>
 
-*Rob Morrison*, Technician<br>
+*[Rob Morrison](https://scholar.google.com/citations?user=KQdzM5AAAAAJ&hl=en&inst=13098912254855678857)*, Technician<br>
 
-*Cathy McMinn* Technician<br>
+*[Cathy McMinn](https://lter.kbs.msu.edu/people/341)* Technician<br>
 
-*Justin Rensch*, Assistant<br>
+*[Justin Rensch](https://www.linkedin.com/in/justin-rensch-275262256/)*, Assistant<br>
 
-*Bryan Wallace*, Assistant<br>
+*[Bryan Wallace](https://www.linkedin.com/in/bryanwallace1/)*, Assistant<br>
 
 
 
 #### Undergraduate Researchers
 ---
-*Ali Ergül*, Boğaziçi University<br>
+*[Ali Ergül](https://www.linkedin.com/in/ali-ergul/?originalSubdomain=tr)*, Boğaziçi University<br>
 
-*Kaliyah Edwards*, Indiana University<br>
+*[Kaliyah Edwards](https://www.linkedin.com/in/kaliyah-edwards-373210294/)*, Indiana University<br>
 
 *Sabri Hamza*, Indiana University<br>
     
@@ -268,19 +268,19 @@ header:
 
 *Caleb Hill*, Indiana University<br>
 
-*Emily Case*, Indiana University<br>
+*[Emily Case](https://www.linkedin.com/in/emily-case-80135927a/)*, Indiana University<br>
 
-*Jayda Griffin*, Indiana University<br>
+*[Jayda Griffin](https://www.linkedin.com/in/jayda-griffin-626929320/)*, Indiana University<br>
 
-*Kim Reish*, Indiana University<br>
+*[Kim Reish](https://www.linkedin.com/in/kim-reish-0a37591b0/)*, Indiana University<br>
 
-*Jainiah Harden*, Indiana University<br>
+*[Jainiah Harden](https://www.linkedin.com/in/jainiah-harden-945b87279/)*, Indiana University<br>
 
-*Alison McHugh*, Indiana University<br>
+*[Alison McHugh](https://www.linkedin.com/in/alison-mchugh-a452421b4/?trk=people-guest_people_search-card)*, Indiana University<br>
 
-*Rayan Jaziri*, Indiana University<br>
+*[Rayan Jaziri](https://www.linkedin.com/in/rayan-jaziri-7a0b42209/)*, Indiana University<br>
 
-*Melih Çakar*, Middle East Technical University<br>
+*[Melih Çakar](https://www.linkedin.com/in/melih-%C3%A7akar/?originalSubdomain=de)*, Middle East Technical University<br>
 
 *Danni Boylan*, Indiana University<br>
 
@@ -290,31 +290,31 @@ header:
 
 *Katarina Walker*, Indiana University<br>
 
-*Kelsey McKenzie*, Indiana University<br>
+*[Kelsey McKenzie](https://www.linkedin.com/in/kelsey-mckenzie-8771b3139/)*, Indiana University<br>
 
-*Ashley Justice*, Indiana University<br>
+*[Ashley Justice](https://www.linkedin.com/in/justice-ashley/)*, Indiana University<br>
 
-*John "JD" French*, Indiana University<br>
+*[John "JD" French](https://www.linkedin.com/in/jd-french/)*, Indiana University<br>
 
 *Benjamin Kelly*, Indiana University<br>
 
 *Jessica Zellinger*, Indiana University<br>
 
-*Max Zaret*, Indiana University<br>
+*[Max Zaret](https://www.linkedin.com/in/max-zaret/)*, Indiana University<br>
 
 *Derek Hocker*, Indiana University<br>
 
 *Cari Rice*, Indiana University<br>
 
-*Mollie Carrison*, Indiana University<br>
+*[Mollie Carrison](https://www.linkedin.com/in/mollie-carrison-70488617a/)*, Indiana University<br>
 
-*SydneyEllen Gooding*, Transylvania University<br>
+*[SydneyEllen Gooding](https://www.researchgate.net/profile/Sydneyellen-Gooding)*, Transylvania University<br>
 
-*Mary Wallace*, Transylvania University<br>
+*[Mary Wallace](https://www.linkedin.com/in/mary-wallace1/details/experience/)*, Transylvania University<br>
 
-*Benjamin Fleet*, Indiana University<br>
+*[Benjamin Fleet](https://www.linkedin.com/in/benjamin-fleet-806785113/)*, Indiana University<br>
 
-*Bianca Blaettner*, Indiana University<br>
+*[Bianca Blaettner](https://www.linkedin.com/in/bianca-blaettner-10020374/)*, Indiana University<br>
 
 *Catherine Meador*, Indiana University<br>
 
@@ -322,51 +322,51 @@ header:
 
 *Jaylen Beatty*, Transylvania University<br>
 
-*Luke Pryke*, Indiana University<br>
+*[Luke Pryke](https://www.linkedin.com/in/luke-pryke-b7281b26/)*, Indiana University<br>
 
 *Drew Meyer*, Indiana University<br>
 
 *Keaton Wieschhaus*, Indiana University<br>
 
-*Sarah Cummins*, Indiana University<br>
+*[Sarah Cummins](https://www.linkedin.com/in/cumminssarah/)*, Indiana University<br>
 
 *Rachel Ferrill*, Transylvania University<br>
 
-*Jared Brewer*, Transylvania University<br>
+*[Jared Brewer](https://www.linkedin.com/in/jaredbrewer/)*, Transylvania University<br>
 
 *Zachary Wakefield*, Indiana University<br>
 
 *Shanika Daniels*, Indiana University<br>
 
-*Xia Meng Howey*, Indiana University<br>
+*[Xia Meng Howey](https://www.linkedin.com/in/xia-meng-howey-b721682a/)*, Indiana University<br>
 
-*Andrew Koultourides*, Indiana University<br>
+*[Andrew Koultourides](https://www.linkedin.com/in/andrew-koultourides/)*, Indiana University<br>
 
-*Claire Freeman*, Colorado State University<br>
+*[Claire Freeman](https://www.linkedin.com/in/claire-carson-343956191/)*, Colorado State University<br>
 
 *Ebony Rodgers*, Bennett College<br>
 
-*Sarah Thornburgh*, Drake University<br>
+*[Sarah Thornburgh](https://www.linkedin.com/in/sarah-thornburgh-60856759/)*, Drake University<br>
 
-*Taiquitha Robins*, Jackson State University<br>
+*[Taiquitha Robins](https://www.linkedin.com/in/taiquitha-robins-a20023334/)*, Jackson State University<br>
 
-*Robbie Snyder*, The Ohio State University<br>
+*[Robbie Snyder](https://cgph.berkeley.edu/robert-snyder/)*, The Ohio State University<br>
 
-*Ben Phillips*, Michigan State University<br>
+*[Ben Phillips](https://www.canr.msu.edu/people/benjamin_phillips), Michigan State University<br>
 
 
 
 #### High School Students
 ---
 
-*Ian Schowe*, East Noble High School, Kendallville, IN<br>
+*[Ian Schowe](https://www.linkedin.com/in/ian-schowe-27a496202/)*, East Noble High School, Kendallville, IN<br>
 
 *Nicole Nguyen*, Burris Laboratory School, Muncie, IN<br>
 
 *Samuel Iwu*, Indiana Math and Science Academy North, Indianapolis, IN<br>
 
-*Dakayla Calhoun*, Shortridge International Baccalaureate High School, Indianapolis, IN<br>
+*[Dakayla Calhoun](https://www.linkedin.com/in/dakayla-calhoun/)*, Shortridge International Baccalaureate High School, Indianapolis, IN<br>
 
-*Dante Razzo*, Bloomington North High School, Bloomington, IN<br>
+*[Dante Razo](https://www.linkedin.com/in/danterazo/)*, Bloomington North High School, Bloomington, IN<br>
 
 *Nick Nelson*, Bishop Noll Institute, Hammond, IN<br>
