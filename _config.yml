@@ -39,6 +39,7 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lennonj@iu.edu"    
+
 # Plugins
 plugins:
   - jekyll-paginate
