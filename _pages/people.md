@@ -40,8 +40,7 @@ header:
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
     <strong>Jay T. Lennon</strong><br>
-    <strong>Principal Investigator</strong><br> 
-    <em>Research Interests</em>: Ecology, evolution, and biodiversity of microbial systems<br>
+    Principal Investigator <br> Research Interests</em>: Ecology, evolution, and biodiversity of microbial systems <br>
     <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a><br>
     <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a><br>
     <div style="margin-top: 0.5rem;">
