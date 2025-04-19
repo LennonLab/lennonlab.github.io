@@ -282,11 +282,11 @@ header:
 
 *[Melih Çakar](https://www.linkedin.com/in/melih-%C3%A7akar/?originalSubdomain=de)*, Middle East Technical University<br>
 
-*Danni Boylan*, Indiana University<br>
+*[Danni Boylan*](https://monarcaacademy.org/elementor-88/), Indiana University<br>
 
-*Bryan Julijanto*, Indiana University<br>
+*[Bryan Julijanto](https://www.researchgate.net/profile/Bryan-Julijanto)*, Indiana University<br>
 
-*Elizabeth ("Betsy") Snider*, Indiana University<br>
+*[Elizabeth ("Betsy") Snider](https://www.researchgate.net/scientific-contributions/Elizabeth-V-Snider-2216686211)*, Indiana University<br>
 
 *Katarina Walker*, Indiana University<br>
 
@@ -302,9 +302,9 @@ header:
 
 *[Max Zaret](https://www.linkedin.com/in/max-zaret/)*, Indiana University<br>
 
-*Derek Hocker*, Indiana University<br>
+*[Derek Hocker](https://npidb.org/doctors/allopathic_osteopathic_physicians/internal-medicine_207r00000x/1558105858.aspx)*, Indiana University<br>
 
-*Cari Rice*, Indiana University<br>
+*[Cari Rice](https://www.linkedin.com/in/caridrice/)*, Indiana University<br>
 
 *[Mollie Carrison](https://www.linkedin.com/in/mollie-carrison-70488617a/)*, Indiana University<br>
 
@@ -316,9 +316,9 @@ header:
 
 *[Bianca Blaettner](https://www.linkedin.com/in/bianca-blaettner-10020374/)*, Indiana University<br>
 
-*Catherine Meador*, Indiana University<br>
+*[Catherine Meador](https://www.doximity.com/pub/catherine-meador-md-e82ce0bc)*, Indiana University<br>
 
-*Peyton Thomas*, Transylvania University<br>
+*[Peyton Thomas](https://www.linkedin.com/in/peyton-thomas-406776118/)*, Transylvania University<br>
 
 *Jaylen Beatty*, Transylvania University<br>
 
@@ -326,15 +326,15 @@ header:
 
 *Drew Meyer*, Indiana University<br>
 
-*Keaton Wieschhaus*, Indiana University<br>
+*[Keaton Wieschhaus](https://www.researchgate.net/scientific-contributions/Keaton-Wieschhaus-2194098212)*, Indiana University<br>
 
 *[Sarah Cummins](https://www.linkedin.com/in/cumminssarah/)*, Indiana University<br>
 
-*Rachel Ferrill*, Transylvania University<br>
+*[Rachel Ferrill](https://louisville.edu/medicine/departments/pharmacology/programs/Members%20of%20Graduate%20Student%20Class%20by%20Year/2024-matriculating-graduate-student-class)*, Transylvania University<br>
 
 *[Jared Brewer](https://www.linkedin.com/in/jaredbrewer/)*, Transylvania University<br>
 
-*Zachary Wakefield*, Indiana University<br>
+*[Zachary Wakefield](https://www.linkedin.com/in/zachary-wakefield/)*, Indiana University<br>
 
 *Shanika Daniels*, Indiana University<br>
 
@@ -352,7 +352,7 @@ header:
 
 *[Robbie Snyder](https://cgph.berkeley.edu/robert-snyder/)*, The Ohio State University<br>
 
-*[Ben Phillips](https://www.canr.msu.edu/people/benjamin_phillips), Michigan State University<br>
+*[Ben Phillips](https://www.canr.msu.edu/people/benjamin_phillips)*, Michigan State University<br>
 
 
 
@@ -363,7 +363,7 @@ header:
 
 *Nicole Nguyen*, Burris Laboratory School, Muncie, IN<br>
 
-*Samuel Iwu*, Indiana Math and Science Academy North, Indianapolis, IN<br>
+*[Samuel Iwu](https://www.linkedin.com/in/samuel-iwu-88378717a/)*, Indiana Math and Science Academy North, Indianapolis, IN<br>
 
 *[Dakayla Calhoun](https://www.linkedin.com/in/dakayla-calhoun/)*, Shortridge International Baccalaureate High School, Indianapolis, IN<br>
 
