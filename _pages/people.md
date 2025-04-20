@@ -361,7 +361,7 @@ header:
 
 *[Ian Schowe](https://www.linkedin.com/in/ian-schowe-27a496202/)*, East Noble High School, Kendallville, IN<br>
 
-*Nicole Nguyen*, Burris Laboratory School, Muncie, IN<br>
+*[Nicole Nguyen](https://hhart.indiana.edu/committee/_members/nguyen-n.html)*, Burris Laboratory School, Muncie, IN<br>
 
 *[Samuel Iwu](https://www.linkedin.com/in/samuel-iwu-88378717a/)*, Indiana Math and Science Academy North, Indianapolis, IN<br>
 
