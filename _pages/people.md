@@ -264,7 +264,7 @@ header:
 
 *Sabri Hamza*, Indiana University<br>
     
-*Michalle Mendoza*, University California Berkeley<br>
+*[Michelle Mendoza](https://www.linkedin.com/in/michelle-m-44922118a/)*, University California Berkeley<br>
 
 *Caleb Hill*, Indiana University<br>
 
