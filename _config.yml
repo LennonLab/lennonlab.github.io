@@ -25,6 +25,10 @@ author:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jaytlennon.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaytlennon/"
+
       
 
 # Site Footer
@@ -36,6 +40,9 @@ footer:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jaytlennon.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaytlennon/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lennonj@iu.edu"    
