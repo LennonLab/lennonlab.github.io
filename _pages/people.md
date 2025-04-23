@@ -111,11 +111,12 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
   <div class="person-text">
-    <strong>El Park</strong><br>
+    <strong><a href="https://www.linkedin.com/in/jpark15/" target="_blank" rel="noopener noreferrer">El Park</a></strong><br>
     Ph.D. student <br> Intracellular mechanisms of sporulation and phage infections<br>
     
   </div>
 </div>
+
 
 
 <div class="person-row">
