@@ -221,7 +221,7 @@ header:
 
 *Chian-Jun Chen*, MS<br>
 
-*[Jordan Bird](https://www.linkedin.com/in/jordan-bird-9291a357/)*, Postdoc (Bioinformatics Scientist, )<br>
+*[Jordan Bird](https://www.linkedin.com/in/jordan-bird-9291a357/)*, Postdoc (Bioinformatics Scientist, Battelle)<br>
 
 *[Ken Locey](https://www.weecology.org/author/ken-locey/)*, Postdoc (Data Analyst, Rush University Medical Center)<br>
 
