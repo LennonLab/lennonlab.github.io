@@ -150,6 +150,15 @@ header:
   </div>
 </div>
 
+<div class="person-row">
+  <img src="{{ '/assets/images/KubekHead.png' | relative_url }}" class="people-img" alt="Miranda">
+  <div class="person-text">
+    <strong>Miranda Kubek</strong><br>
+    Undergraduate intern (Reed College) <br> Climate change and dormancy<br>
+    
+  </div>
+</div>
+
 <hr>
 
 ## Former Lab Members
