@@ -60,6 +60,7 @@ header:
   </div>
 </div>
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
   <div class="person-text">
@@ -68,6 +69,7 @@ header:
     
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
@@ -78,6 +80,7 @@ header:
   </div>
 </div>
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/MuellerHead.png' | relative_url }}" class="people-img" alt="Emmi">
   <div class="person-text">
@@ -86,6 +89,7 @@ header:
     
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
@@ -96,6 +100,7 @@ header:
   </div>
 </div>
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
   <div class="person-text">
@@ -104,6 +109,7 @@ header:
     
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/LennonAHead.png' | relative_url }}" class="people-img" alt="Anna">
@@ -114,6 +120,7 @@ header:
   </div>
 </div>
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
@@ -123,6 +130,7 @@ header:
   </div>
 </div>
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
@@ -131,6 +139,7 @@ header:
     
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/RadfordHead.png' | relative_url }}" class="people-img" alt="Nicholas">
@@ -148,6 +157,16 @@ header:
     Undergraduate <br> Bacteria, phage, evolution<br>
   </div>
 </div>
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/LohmanHead.png' | relative_url }}" class="people-img" alt="Olivia">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/olivia-lohman-471206244//" target="_blank" rel="noopener noreferrer">Olivia Lohman</a></strong><br>
+    Undergraduate <br> Phage evolution<br>
+  </div>
+</div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/KubekHead.png' | relative_url }}" class="people-img" alt="Miranda">
