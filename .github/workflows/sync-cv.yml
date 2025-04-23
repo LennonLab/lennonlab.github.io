@@ -1,0 +1,34 @@
+name: Sync CV PDF from LennonLab/cv
+
+on:
+  workflow_dispatch:  # Manual trigger for now (safe to test)
+  schedule:
+    - cron: '0 6 * * *'  # Optional: sync daily at 6 AM UTC
+
+jobs:
+  sync-cv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout website repo
+        uses: actions/checkout@v3
+
+      - name: Checkout CV repo
+        uses: actions/checkout@v3
+        with:
+          repository: LennonLab/cv
+          path: cv-source
+          token: ${{ secrets.PERSONAL_TOKEN }}
+
+      - name: Copy latest CV PDF
+        run: |
+          cp cv-source/cv.pdf assets/docs/CV.pdf
+
+      - name: Commit and push CV update
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add assets/docs/CV.pdf
+          git commit -m "Auto-sync latest CV.pdf from LennonLab/cv" || echo "No changes to commit"
+          git push
+
