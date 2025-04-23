@@ -62,7 +62,7 @@ header:
   <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
   <div class="person-text">
     <strong><a href="https://www.researchgate.net/profile/Jipeng-Luo" target="_blank" rel="noopener noreferrer">Jipeng Luo</a></strong><br>
-    Postdoc <br> Plant-microbiome interactions, evolutionary genomics, soil remediation<br>
+    Postdoc <br> Plant-microbe interactions, evolutionary genomics, soil remediation<br>
     
   </div>
 </div>
@@ -72,7 +72,7 @@ header:
   <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/emmabueren/" target="_blank" rel="noopener noreferrer">Emma Bueren</a></strong><br>
-    Postdoc <br> Bacteria-phage evolutionary ecology, nested symbioses, host microbiomes<br>
+    Postdoc <br> Bacteria-phage evolutionary ecology, host microbiomes<br>
     
   </div>
 </div>
@@ -102,7 +102,7 @@ header:
   <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/joy-o-brien-028a19181/" target="_blank" rel="noopener noreferrer">Joy O'Brien</a></strong><br>
-    Ph.D. candidate <br> Microbial dormancy, permafrost soils, and global change in the Arctic<br>
+    Ph.D. candidate <br> Microbial dormancy, virosporulation, permafrost soils<br>
     
   </div>
 </div>
@@ -129,10 +129,20 @@ header:
 
 
 <div class="person-row">
+  <img src="{{ '/assets/images/BoraHead.png' | relative_url }}" class="people-img" alt="Jitul">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/jitul-bora-966b5325a/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">Jitul Bora</a></strong><br>
+    Ph.D. student <br> Environmental microbiology, soils, virospores<br>
+    
+  </div>
+</div>
+
+
+<div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
-    Undergraduate <br> Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
+    Undergraduate <br> Infection dynamics, bacteria-phage evolution<br>
     
   </div>
 </div>
