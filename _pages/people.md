@@ -64,7 +64,7 @@ header:
   <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/emmabueren/" target="_blank" rel="noopener noreferrer">Emma Bueren</a></strong><br>
-    Postdoc <br> Bacterie-phage evolutionary ecology, nested symbioses, host microbiomes<br>
+    Postdoc <br> Bacteria-phage evolutionary ecology, nested symbioses, host microbiomes<br>
     
   </div>
 </div>
