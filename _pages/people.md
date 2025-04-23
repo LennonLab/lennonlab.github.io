@@ -42,8 +42,8 @@ header:
     <strong><a href="https://biology.indiana.edu/about/faculty/lennon-jay.html" target="_blank" rel="noopener noreferrer">Jay T. Lennon</a></strong><br>
     Principal Investigator <br> Ecology, evolution, and biodiversity of microbial systems <br>
     <span>
-      <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a>&nbsp;
-      <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>&nbsp;
+      <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a>&nbsp;|&nbsp;
+      <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>&nbsp;|&nbsp;
       <a href="/assets/docs/Lennon_CV.pdf">CV</a>
     </span><br>
     <!--
@@ -53,6 +53,7 @@ header:
     -->
   </div>
 </div>
+
 
 
 
