@@ -239,7 +239,7 @@ header:
 
 *[Stuart Jones](https://www.gvsu.edu/wri/faculty-websites-108.htm)*, Postdoc (Executive Director, Annis Water Resources Institute)<br>
 
-*[Ed Hall](https://www.nrel.colostate.edu/investigator/ed-hall-homepage/)*, Postdoc (Associate Professor, Colorado State University)<br>
+*[Ed Hall](https://sites.warnercnr.colostate.edu/edhall/)*, Postdoc (Associate Professor, Colorado State University)<br>
 
 *[Zach Aanderud](https://pws.byu.edu/zach-aanderud-lab)*, Postdoc (Professor, Brigham Young University)<br>
 
