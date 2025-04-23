@@ -144,9 +144,8 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
   <div class="person-text">
-    <strong>James Batides</strong><br>
+    <strong><a href="https://www.linkedin.com/in/james-batides-0ab09229b/" target="_blank" rel="noopener noreferrer">James Batides</a></strong><br>
     Undergraduate <br> Bacteria, phage, evolution<br>
-    
   </div>
 </div>
 
