@@ -39,7 +39,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
-    <strong>Jay T. Lennon</strong><br>
+    <strong><a href="https://biology.indiana.edu/about/faculty/lennon-jay.html" target="_blank" rel="noopener noreferrer">Jay T. Lennon</a></strong><br>
     Principal Investigator <br> Ecology, evolution, and biodiversity of microbial systems <br>
     <span>
       <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a><a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>
@@ -54,7 +54,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
   <div class="person-text">
-    <strong>Jipeng Luo</strong><br>
+    <strong><a href="https://www.researchgate.net/profile/Jipeng-Luo" target="_blank" rel="noopener noreferrer">Jipeng Luo</a></strong><br>
     Postdoc <br> Plant-microbiome interactions, evolutionary genomics, soil remediation<br>
     
   </div>
@@ -63,7 +63,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
   <div class="person-text">
-    <strong>Emma Bueren</strong><br>
+    <strong><a href="https://www.linkedin.com/in/emmabueren/" target="_blank" rel="noopener noreferrer">Emma Bueren</a></strong><br>
     Postdoc <br> Bacterie-phage evolutionary ecology, nested symbioses, host microbiomes<br>
     
   </div>
@@ -72,7 +72,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
   <div class="person-text">
-    <strong>Sungyun Kang</strong><br>
+    <strong><a href="https://www.linkedin.com/in/sungyun-kang-14b69229/" target="_blank" rel="noopener noreferrer">Sungyun Kang</a></strong><br>
     Research Associate <br> Molecular genetics, genomics, cell biology, transcription factors<br>
     
   </div>
@@ -81,8 +81,8 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/MuellerHead.png' | relative_url }}" class="people-img" alt="Emmi">
   <div class="person-text">
-    <strong>Emmi Mueller</strong><br>
-    Ph.D. candidate <br> Physical complexity and microbial communities <a href="https://emmiamueller.weebly.com/">website</a><br>
+    <strong><a href="https://emmiamueller.weebly.com/" target="_blank" rel="noopener noreferrer">Emmi Mueller</a></strong><br>
+    Ph.D. candidate <br> Physical complexity and microbial communities<br>
     
   </div>
 </div>
@@ -90,8 +90,8 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
   <div class="person-text">
-    <strong>Joy O'Brien</strong><br>
-    Ph.D. student <br> Microbial dormancy, permafrost soils, and global change in the Arctic<br>
+    <strong><a href="https://www.linkedin.com/in/joy-o-brien-028a19181/" target="_blank" rel="noopener noreferrer">Joy O'Brien</a></strong><br>
+    Ph.D. candidate <br> Microbial dormancy, permafrost soils, and global change in the Arctic<br>
     
   </div>
 </div>
@@ -108,7 +108,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/LennonAHead.png' | relative_url }}" class="people-img" alt="Anna">
   <div class="person-text">
-    <strong>Anna Lennon</strong><br>
+    <strong><a href="https://www.linkedin.com/in/anna-lennon-75aa42229/" target="_blank" rel="noopener noreferrer">Anna Lennon</a></strong><br>
     Ph.D. student <br> Dormancy, biofilms, and division of labor<br>
     
   </div>
@@ -117,7 +117,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
-    <strong>Henock Mugoovi</strong><br>
+    <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
     Undergraduate <br> Infection dynamics and evolution of legume-associated rhizobia in response to phage<br>
     
   </div>
@@ -126,7 +126,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
-    <strong>Mariana Simi</strong><br>
+    <strong><a href="https://www.linkedin.com/in/mariana-simi/" target="_blank" rel="noopener noreferrer">Mariana Simi</a></strong><br>
     Undergraduate <br> Microbiomes, thermal adapation, soil feedbacks<br>
     
   </div>
@@ -152,7 +152,7 @@ header:
 <div class="person-row">
   <img src="{{ '/assets/images/KubekHead.png' | relative_url }}" class="people-img" alt="Miranda">
   <div class="person-text">
-    <strong>Miranda Kubek</strong><br>
+    <strong><a href="https://www.linkedin.com/in/miranda-kubek-41702224a/" target="_blank" rel="noopener noreferrer">Miranda Kubek</a></strong><br>
     Undergraduate intern (Reed College) <br> Climate change and dormancy<br>
     
   </div>
