@@ -40,7 +40,8 @@ header:
   <img src="{{ '/assets/images/JayHead.png' | relative_url }}" class="people-img" alt="Jay">
   <div class="person-text">
     <strong><a href="https://biology.indiana.edu/about/faculty/lennon-jay.html" target="_blank" rel="noopener noreferrer">Jay T. Lennon</a></strong><br>
-    Principal Investigator <br> Ecology, evolution, and biodiversity of microbial systems <br>
+    Principal Investigator <br>
+    <!-- Ecology, evolution, and biodiversity of microbial systems <br> -->
     <span>
       <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a>&nbsp;|&nbsp;
       <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>&nbsp;|&nbsp;
@@ -53,6 +54,7 @@ header:
     -->
   </div>
 </div>
+
 
 
 
@@ -153,7 +155,7 @@ header:
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/mariana-simi/" target="_blank" rel="noopener noreferrer">Mariana Simi</a></strong><br>
-    Undergraduate <br> Microbiomes, thermal adapation, soil feedbacks<br>
+    Undergraduate (Honors thesis) <br> Microbiomes, thermal adapation, soil feedbacks<br>
     
   </div>
 </div>
