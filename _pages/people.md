@@ -45,7 +45,7 @@ header:
     <span>
       <a href="https://scholar.google.com/citations?user=d-hWatsAAAAJ&hl=en">Google Scholar</a>&nbsp;|&nbsp;
       <a href="https://orcid.org/0000-0003-3126-6111">ORCID</a>&nbsp;|&nbsp;
-      <a href="/assets/docs/CV.pdf">CV</a>
+      <a href="/assets/docs/Lennon_CV.pdf">CV</a>
     </span><br>
     <!--
     <div style="margin-top: 0.5rem;">
@@ -371,7 +371,7 @@ header:
 
 *[Luke Pryke](https://www.linkedin.com/in/luke-pryke-b7281b26/)*, Indiana University<br>
 
-*Drew Meyer*, Indiana University<br>
+*[Drew Meyer](https://www.linkedin.com/in/drew-arthur-myers-03038b89/)*, Indiana University<br>
 
 *[Keaton Wieschhaus](https://www.researchgate.net/scientific-contributions/Keaton-Wieschhaus-2194098212)*, Indiana University<br>
 
