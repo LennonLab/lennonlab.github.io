@@ -22,7 +22,7 @@ jobs:
 
       - name: Copy latest CV PDF
         run: |
-          cp cv-source/cv.pdf assets/docs/CV.pdf
+          cp cv-source/cv.pdf assets/docs/Lennon_CV.pdf
 
       - name: Commit and push CV update
         run: |
