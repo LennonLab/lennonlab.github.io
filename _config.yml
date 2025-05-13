@@ -13,7 +13,7 @@ teaser: "/assets/images/plaques.png"
 # Author info
 author:
   avatar: "/assets/images/plaques.png"
-  location: "Bloomington, Indiana"
+  location: "Bloomington"
   location_url: "https://maps.app.goo.gl/t8mdvsz7m3T57LYC8"
   links:
     - label: "Email"
