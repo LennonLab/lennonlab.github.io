@@ -9,8 +9,10 @@ header:
 ---
 
 <!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Geographical patterns and drivers of dissolved organic matter in the global ocean. Research Square [doi:10.21203/rs.3.rs-6624570/v1] (https://assets-eu.researchsquare.com/files/rs-6624570/v1/a75822e6-0649-4c95-919e-3ba016f0bc96.pdf?c=1747022553)
+Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillesie R (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. EcoEvoRxiv [doi:10.32942/X2Z64W] (https://ecoevorxiv.org/repository/view/9169/)
 
+<!--- pub entry --->
+Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Geographical patterns and drivers of dissolved organic matter in the global ocean. Research Square [doi:10.21203/rs.3.rs-6624570/v1] (https://assets-eu.researchsquare.com/files/rs-6624570/v1/a75822e6-0649-4c95-919e-3ba016f0bc96.pdf?c=1747022553)
 
 <!--- pub entry --->
 Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. mBio 16: 10.1128/mbio.00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
