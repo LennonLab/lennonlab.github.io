@@ -1,24 +1,35 @@
-name: Backup Website
+name: Build and Deploy Jekyll Site
 
 on:
-  schedule:
-    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  backup:
+  jekyll:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout source
+      - name: Checkout main branch
         uses: actions/checkout@v4
 
-      - name: Push to backup repo
-        uses: cpina/github-action-push-to-another-repository@v1
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source-directory: '.'
-          destination-github-username: LennonLab
-          destination-repository-name: lennonlab.github.backup
-          user-email: backup@lennonlab.org
+          ruby-version: 3.1
 
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle config set path 'vendor/bundle'
+          bundle install
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
