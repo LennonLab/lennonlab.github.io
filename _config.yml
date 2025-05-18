@@ -66,6 +66,12 @@ include:
   - _sass
   - assets
 
+# This was added May 18 2025 because index wasn't loading
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Tell Jekyll to build our main.scss manually
 defaults:
   - scope:
