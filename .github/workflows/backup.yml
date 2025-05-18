@@ -1,0 +1,24 @@
+name: Backup Website
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Push to backup repo
+        uses: cpina/github-action-push-to-another-repository@v1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
+        with:
+          source-directory: '.'
+          destination-github-username: LennonLab
+          destination-repository-name: lennonlab.github.backup
+          user-email: backup@lennonlab.org
+
