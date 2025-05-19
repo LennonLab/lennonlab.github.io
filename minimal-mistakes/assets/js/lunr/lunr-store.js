@@ -36,7 +36,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "People",
-        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Emmi Mueller Ph.D. candidate Physical complexity and microbial communities Joy O'Brien Ph.D. candidate...","categories": [],
+        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; Bio&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Emmi Mueller Ph.D. candidate Physical complexity and microbial communities Joy O'Brien Ph.D....","categories": [],
         "tags": [],
         "url": "/people/",
         "teaser": "/assets/images/plaques.png"
