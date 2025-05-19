@@ -6,6 +6,7 @@ author_profile: true
 permalink: /opportunities/
 header:
   image: /assets/images/megaterium.jpg
+nav: false
 ---
 
 ---
