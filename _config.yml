@@ -64,7 +64,7 @@ sass:
 include:
   - _pages
   - _sass
-  - assets
+  - assets/docs
 
 # This was added May 18 2025 because index wasn't loading 
 collections:
