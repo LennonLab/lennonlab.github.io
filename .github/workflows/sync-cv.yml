@@ -1,9 +1,12 @@
 name: Sync CV PDF from LennonLab/cv
 
 on:
-  workflow_dispatch:  # Manual trigger for now (safe to test)
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # Optional: sync daily at 6 AM UTC
+    - cron: '0 6 * * *'
+
+permissions:
+  contents: write  # allow pushing to repo
 
 jobs:
   sync-cv:
@@ -22,13 +25,12 @@ jobs:
 
       - name: Copy latest CV PDF
         run: |
-          cp cv-source/cv.pdf assets/docs/Lennon_CV.pdf
+          cp cv-source/Lennon_CV.pdf assets/docs/Lennon_CV.pdf
 
       - name: Commit and push CV update
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add assets/docs/CV.pdf
+          git add assets/docs/Lennon_CV.pdf
           git commit -m "Auto-sync latest CV.pdf from LennonLab/cv" || echo "No changes to commit"
           git push
-
