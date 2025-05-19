@@ -9,7 +9,7 @@ header:
 ---
 
 <!--- pub entry --->
-Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillesie R (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. *EcoEvoRxiv* [doi:10.32942/X2Z64W](https://ecoevorxiv.org/repository/view/9169/)
+Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. *EcoEvoRxiv* [doi:10.32942/X2Z64W](https://ecoevorxiv.org/repository/view/9169/)
 
 
 <!--- pub entry --->
