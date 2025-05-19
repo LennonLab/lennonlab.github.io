@@ -6,6 +6,7 @@ author_profile: true
 permalink: /research/
 header:
   image: /assets/images/megaterium.jpg
+nav: false
 ---
 
 <p>From test tubes to the globe, we study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. To address these questions, our team uses a combination of molecular biology, modeling, data mining and synthesis, laboratory experiments, and field surveys in a wide range of habitats.</p>

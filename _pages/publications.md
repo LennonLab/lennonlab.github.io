@@ -6,6 +6,7 @@ author_profile: true
 permalink: /publications/
 header:
   image: /assets/images/megaterium.jpg
+nav: false
 ---
 
 <!--- pub entry --->

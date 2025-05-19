@@ -6,6 +6,7 @@ permalink: /teaching/
 author_profile: true
 header:
   image: /assets/images/megaterium.jpg
+nav: false
 ---
 
 <style>
