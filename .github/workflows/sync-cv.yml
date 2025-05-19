@@ -27,10 +27,14 @@ jobs:
         run: |
           cp cv-source/Lennon_CV.pdf assets/docs/Lennon_CV.pdf
 
-      - name: Commit and push CV update
+      - name: Touch file to trigger site rebuild
+        run: |
+          date > .trigger-rebuild.txt
+
+      - name: Commit and push CV update + rebuild trigger
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add assets/docs/Lennon_CV.pdf
-          git commit -m "Auto-sync latest CV.pdf from LennonLab/cv" || echo "No changes to commit"
+          git add assets/docs/Lennon_CV.pdf .trigger-rebuild.txt
+          git commit -m "Auto-sync latest CV.pdf and trigger rebuild" || echo "No changes to commit"
           git push
