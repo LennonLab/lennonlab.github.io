@@ -42,7 +42,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "Publications",
-        "excerpt":"Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillesie R (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring...","categories": [],
+        "excerpt":"Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": "/assets/images/plaques.png"
