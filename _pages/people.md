@@ -63,7 +63,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.researchgate.net/profile/Jipeng-Luo" target="_blank" rel="noopener noreferrer">Jipeng Luo</a></strong><br>
     Postdoc <br> Plant-microbe interactions, evolutionary genomics, soil remediation<br>
-    
   </div>
 </div>
 
@@ -73,7 +72,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/emmabueren/" target="_blank" rel="noopener noreferrer">Emma Bueren</a></strong><br>
     Postdoc <br> Bacteria-phage evolutionary ecology, host microbiomes<br>
-    
   </div>
 </div>
 
@@ -83,7 +81,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/sungyun-kang-14b69229/" target="_blank" rel="noopener noreferrer">Sungyun Kang</a></strong><br>
     Research Associate <br> Molecular genetics, genomics, cell biology, transcription factors<br>
-    
   </div>
 </div>
 
@@ -103,7 +100,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/joy-o-brien-028a19181/" target="_blank" rel="noopener noreferrer">Joy O'Brien</a></strong><br>
     Ph.D. candidate <br> Microbial dormancy, virosporulation, permafrost soils<br>
-    
   </div>
 </div>
 
@@ -113,7 +109,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/jpark15/" target="_blank" rel="noopener noreferrer">El Park</a></strong><br>
     Ph.D. student <br> Intracellular mechanisms of sporulation and phage infections<br>
-    
   </div>
 </div>
 
@@ -124,7 +119,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/anna-lennon-75aa42229/" target="_blank" rel="noopener noreferrer">Anna Lennon</a></strong><br>
     Ph.D. student <br> Dormancy, biofilms, and division of labor<br>
-    
   </div>
 </div>
 
@@ -134,7 +128,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/jitul-bora-1977a72a6/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">Jitul Bora</a></strong><br>
     Ph.D. student <br> Environmental microbiology, soils, virospores<br>
-    
   </div>
 </div>
 
@@ -144,7 +137,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
     Undergraduate <br> Infection dynamics, bacteria-phage evolution<br>
-    
   </div>
 </div>
 
@@ -154,7 +146,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/mariana-simi/" target="_blank" rel="noopener noreferrer">Mariana Simi</a></strong><br>
     Undergraduate (Honors thesis) <br> Microbiomes, thermal adapation, soil feedbacks<br>
-    
   </div>
 </div>
 
@@ -164,9 +155,9 @@ nav: false
   <div class="person-text">
     <strong>Nicholas Radford</strong><br>
     Undergraduate <br> Division of labor, microbial mutualisms<br>
-    
   </div>
 </div>
+
 
 <div class="person-row">
   <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
@@ -191,9 +182,27 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/miranda-kubek-41702224a/" target="_blank" rel="noopener noreferrer">Miranda Kubek</a></strong><br>
     Undergraduate intern (Reed College) <br> Climate change and dormancy<br>
-    
   </div>
 </div>
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/CrockettHead.png' | relative_url }}" class="people-img" alt="Joceyln">
+  <div class="person-text">
+    <strong>Jocelyn Crockett</strong><br>
+    Undergraduate intern <br> Microbial ecology and evolution<br>
+  </div>
+</div>
+
+<div class="person-row">
+  <img src="{{ '/assets/images/McCartyHead.png' | relative_url }}" class="people-img" alt="Caroline">
+  <div class="person-text">
+    <strong>Caroline McCarty</strong><br>
+    Undergraduate intern <br> Microbial ecology and evolution<br>
+  </div>
+</div>
+
+
 
 <hr>
 
