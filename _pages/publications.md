@@ -18,6 +18,11 @@ Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) G
 
 
 <!--- pub entry --->
+Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides
+to estimate extracellular polymeric substances (EPS) in soil [doi.org/10.1101/2025.05.22.654594](https://www.biorxiv.org/content/10.1101/2025.05.22.654594v1.full.pdf)
+
+
+<!--- pub entry --->
 Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. mBio 16: 10.1128/mbio.00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
 
 
