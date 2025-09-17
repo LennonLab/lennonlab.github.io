@@ -25,7 +25,7 @@ Janet K. Jansson, Avi I. Flamholz, Raquel Peixoto, Salles JF, Lennon JT, Rosado 
 Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean.
 
 
-<!--- pub entry --->
+<!--- pub entry (needs to be updated--->
 Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
 
 * *mBio*: 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024a.pdf)) 
