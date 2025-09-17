@@ -36,13 +36,13 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "People",
-        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; Bio&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Emmi Mueller Ph.D. candidate Physical complexity and microbial communities Joy O'Brien Ph.D....","categories": [],
+        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; Bio&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Joy O'Brien Ph.D. candidate Microbial dormancy, virosporulation, permafrost soils El Park Ph.D....","categories": [],
         "tags": [],
         "url": "/people/",
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "Publications",
-        "excerpt":"Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring...","categories": [],
+        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. bioRxiv doi:10.1101/2025.08.26.672491 Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. bioRxiv doi:10.1101/2025.08.21.671663 Janet K. Jansson, Avi I. Flamholz, Raquel Peixoto, Salles JF, Lennon JT, Rosado A,...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": "/assets/images/plaques.png"
