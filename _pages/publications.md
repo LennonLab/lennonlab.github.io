@@ -53,7 +53,7 @@ Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive 
 
 
 <!--- pub entry --->
-Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C, Jansson J, Lennon JT, Souza V, Thomas T, Cowan D, Crowhter T, Nguyen N, Harper L, Haraoui LP, Ishaq SL, Redford K (2025) The IUCN Microbial Conservation Specialist Group (MCSG): A global framework for safeguarding microbial biodiversity. *Nature Microbiology* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
+Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C, Jansson J, Lennon JT, Souza V, Thomas T, Cowan D, Crowhter T, Nguyen N, Harper L, Haraoui LP, Ishaq SL, Redford K (2025) The IUCN Microbial Conservation Specialist Group (MCSG): A global framework for safeguarding microbial biodiversity. *Nature Microbiology* ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 
 
 <!--- pub entry --->
