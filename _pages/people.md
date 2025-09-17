@@ -58,6 +58,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/LuoHead.png' | relative_url }}" class="people-img" alt="Jipeng">
   <div class="person-text">
@@ -65,6 +66,7 @@ nav: false
     Postdoc <br> Plant-microbe interactions, evolutionary genomics, soil remediation<br>
   </div>
 </div>
+
 
 
 <div class="person-row">
@@ -76,6 +78,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
   <div class="person-text">
@@ -85,15 +88,6 @@ nav: false
 </div>
 
 
-<div class="person-row">
-  <img src="{{ '/assets/images/MuellerHead.png' | relative_url }}" class="people-img" alt="Emmi">
-  <div class="person-text">
-    <strong><a href="https://emmiamueller.weebly.com/" target="_blank" rel="noopener noreferrer">Emmi Mueller</a></strong><br>
-    Ph.D. candidate <br> Physical complexity and microbial communities<br>
-    
-  </div>
-</div>
-
 
 <div class="person-row">
   <img src="{{ '/assets/images/OBrienHead.png' | relative_url }}" class="people-img" alt="Joy">
@@ -102,6 +96,7 @@ nav: false
     Ph.D. candidate <br> Microbial dormancy, virosporulation, permafrost soils<br>
   </div>
 </div>
+
 
 
 <div class="person-row">
@@ -123,6 +118,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/BoraHead.png' | relative_url }}" class="people-img" alt="Jitul">
   <div class="person-text">
@@ -130,6 +126,7 @@ nav: false
     Ph.D. student <br> Environmental microbiology, soils, virospores<br>
   </div>
 </div>
+
 
 
 <div class="person-row">
@@ -141,6 +138,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
@@ -148,6 +146,7 @@ nav: false
     Undergraduate (Honors thesis) <br> Microbiomes, thermal adapation, soil feedbacks<br>
   </div>
 </div>
+
 
 
 <div class="person-row">
@@ -159,6 +158,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
   <div class="person-text">
@@ -168,6 +168,7 @@ nav: false
 </div>
 
 
+
 <div class="person-row">
   <img src="{{ '/assets/images/LohmanHead.png' | relative_url }}" class="people-img" alt="Olivia">
   <div class="person-text">
@@ -175,33 +176,6 @@ nav: false
     Undergraduate <br> Phage evolution<br>
   </div>
 </div>
-
-
-<div class="person-row">
-  <img src="{{ '/assets/images/KubekHead.png' | relative_url }}" class="people-img" alt="Miranda">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/miranda-kubek-41702224a/" target="_blank" rel="noopener noreferrer">Miranda Kubek</a></strong><br>
-    Undergraduate intern (Reed College) <br> Climate change and dormancy<br>
-  </div>
-</div>
-
-
-<div class="person-row">
-  <img src="{{ '/assets/images/CrockettHead.png' | relative_url }}" class="people-img" alt="Joceyln">
-  <div class="person-text">
-    <strong>Jocelyn Crockett</strong><br>
-    Undergraduate intern <br> Microbial ecology and evolution<br>
-  </div>
-</div>
-
-<div class="person-row">
-  <img src="{{ '/assets/images/McCartyHead.png' | relative_url }}" class="people-img" alt="Caroline">
-  <div class="person-text">
-    <strong>Caroline McCarty</strong><br>
-    Undergraduate intern <br> Microbial ecology and evolution<br>
-  </div>
-</div>
-
 
 
 <hr>
@@ -215,6 +189,8 @@ nav: false
 *[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
 
 *[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
+
+*[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D (Postdoc, University of Wisconsin-Milwaukee)<br>
 
 *[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
@@ -312,6 +288,12 @@ nav: false
 
 #### Undergraduate Researchers
 ---
+*[Miranda Kubek](https://www.linkedin.com/in/miranda-kubek-41702224a)*, Reed College<br>
+
+*[Jocelyn Crockett](https://www.linkedin.com/in/jocelyn-crockett-126b09300/)* Indiana University<br>
+
+*Caroline McCarty*, Indiana University<br>
+
 *[Ali Ergül](https://www.linkedin.com/in/ali-ergul/?originalSubdomain=tr)*, Boğaziçi University<br>
 
 *[Kaliyah Edwards](https://www.linkedin.com/in/kaliyah-edwards-373210294/)*, Indiana University<br>
