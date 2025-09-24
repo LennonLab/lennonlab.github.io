@@ -20,5 +20,5 @@ excerpt: >
 
 Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of engineered, environmental, and host-associated ecosystems. 
 
-Our group is in the [Department of Biology](https://biology.indiana.edu/) at [Indiana University](https://www.indiana.edu/). For additional information and news, visit the [lab wiki](https://lennon.bio.indiana.edu/index.php?title=Main_Page). Data and code for our projects can be found on [GitHub](https://github.com/LennonLab).
+Our group is in the [Department of Biology](https://biology.indiana.edu/) at [Indiana University](https://www.indiana.edu/). For additional information and news, visit the [lab wiki](https://lennon.reclaimhosting.iu.edu). Data and code for our projects can be found on [GitHub](https://github.com/LennonLab).
 

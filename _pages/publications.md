@@ -24,20 +24,19 @@ Janet K. Jansson, Avi I. Flamholz, Raquel Peixoto, Salles JF, Lennon JT, Rosado 
 <!--- pub entry --->
 Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean.
 
+<!--- pub entry --->
+Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding Microbial Biodiversity: Microbial Conservation Specialist Group (MCSG) within the Species Survival Commission of the International Union for Conservation of Nature (IUCN). In press at *Sustainble Microbiology*. 
+
 
 <!--- pub entry (needs to be updated--->
 Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
 
-* *mBio*: 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024a.pdf)) 
-* *Sustainable Microbiology*:  ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024b.pdf)) 
-* *FEMS Microbiology Ecology*  ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024c.pdf)) 
-* *ISMEJ* ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024d.pdf))
-* *Ocean Land Atmosphere Research* ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024e.pdf))
-* *Microbiology Australia* ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024f.pdf))
-
-
-<!--- pub entry --->
-Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding Microbial Biodiversity: Microbial Conservation Specialist Group (MCSG) within the Species Survival Commission of the International Union for Conservation of Nature (IUCN). In press at *Sustainble Microbiology*. 
+* *mBio*: 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024d.pdf)) 
+* *ISMEJ*:  ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
+* *FEMS Microbiology Ecology*  ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025f.pdf)) 
+* *Sustainable Microbiology* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025g.pdf))
+* *Ocean Land Atmosphere Research* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025h.pdf))
+* *Microbiology Australia* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025i.pdf))
 
 
 <!--- pub entry --->
