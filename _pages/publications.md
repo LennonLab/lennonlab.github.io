@@ -31,12 +31,12 @@ Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius,
 <!--- pub entry (needs to be updated--->
 Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
 
-* *mBio*: 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2024d.pdf)) 
-* *ISMEJ*:  ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
-* *FEMS Microbiology Ecology*  ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025f.pdf)) 
-* *Sustainable Microbiology* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025g.pdf))
-* *Ocean Land Atmosphere Research* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025h.pdf))
-* *Microbiology Australia* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025i.pdf))
+* *mBio* 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
+* *ISMEJ* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
+* *FEMS Microbiology Ecology* 101: fiaf084 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025f.pdf)) 
+* *Sustainable Microbiology* 2: qvaf021([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025g.pdf))
+* *Ocean Land Atmosphere Research* doi.org/10.34133/olar.0108 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025h.pdf))
+* *Microbiology Australia* 46: 111–113([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025i.pdf))
 
 
 <!--- pub entry --->
@@ -116,8 +116,8 @@ Webster KD, <u>Lennon JT</u> (2025) Dormancy in the origin, evolution, and persi
 <!--- pub entry --->
 Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M, Gregory A, Makhalanyane TP, Wang F, Agbodjato NA, Wang Y, Jiao N, <u>Lennon JT</u>, Ventosa A, Bavoil PM, Miller V, Gilbert JA (2024) Microbiology at the brink: a unified call for action against climate catastrophe. 
 
-* *Nature Microbiology*: 9: 3084-3085 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024a.pdf)) 
-* *Nature Communications*: 15: 9637 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024b.pdf)) 
+* *Nature Microbiology* 9: 3084-3085 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024a.pdf)) 
+* *Nature Communications* 15: 9637 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024b.pdf)) 
 * *Nature Reviews Microbiology* 23: 1-2 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024c.pdf)) 
 * *Nature Reviews Earth and Environment* 6: 4-5 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024d.pdf))
 * *ISMEJ* 18: wrae219 ([pdf]({{ site.url }}/assets/publications/Peixoto_etal_2024e.pdf))
