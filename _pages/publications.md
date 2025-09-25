@@ -31,12 +31,12 @@ Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius,
 <!--- pub entry (needs to be updated--->
 Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
 
-* *mBio* 10.1128/mbio.02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
-* *ISMEJ* ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
+* *mBio* 16: e02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
+* *ISMEJ* 19: wraf199 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
 * *FEMS Microbiology Ecology* 101: fiaf084 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025f.pdf)) 
-* *Sustainable Microbiology* 2: qvaf021([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025g.pdf))
-* *Ocean Land Atmosphere Research* doi.org/10.34133/olar.0108 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025h.pdf))
-* *Microbiology Australia* 46: 111–113([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025i.pdf))
+* *Sustainable Microbiology* 2: qvaf021 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025g.pdf))
+* *Ocean Land Atmosphere Research* 4:  0108 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025h.pdf))
+* *Microbiology Australia* 46: 111–113 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025i.pdf))
 
 
 <!--- pub entry --->
@@ -102,11 +102,11 @@ Nevermann Henrik D, Gros C, <u>Lennon JT</u> (2024) A game of life with dormancy
 
 
 <!--- pub entry --->
-Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2025) Streptomyces secretes a siderophore that sensitizes competitor bacteria to phage infection. *Nature Microbiology* doi: 10.1038/s41564-024-01910-8 ([pdf]({{ site.url }}/assets/publications/Zang_etal_2025.pdf)) 
+Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (2025) Streptomyces secretes a siderophore that sensitizes competitor bacteria to phage infection. *Nature Microbiology* 10: 362–373 ([pdf]({{ site.url }}/assets/publications/Zang_etal_2025.pdf)) 
 
 
 <!--- pub entry --->
-Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR (2025) Soil microbiome interventions for carbon sequestration and climate mitigation. *mSystems* ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2025.pdf)) 
+Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR (2025) Soil microbiome interventions for carbon sequestration and climate mitigation. *mSystems*  10: e01129-24 ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2025.pdf)) 
 
 
 <!--- pub entry --->
@@ -133,7 +133,7 @@ Peixoto R, Voolstra CR, Stein LY, Hugenholtz P, Salles JF, Amin SA, Häggblom M,
 
 
 <!--- pub entry --->
-Waldrop MP, Ernakovich JG, Vishnivetskaya TA, Schaefer SR, Mackleprang R, Bara J, O'Brien JM, Winkel M, Barbato RA, Heffernan L, Leewis MC, Hewitt RE, Hultman J, Sun Y, Biasi C, Bradley JA, Liebner S, Ricketts MP, Muscarella ME, Schütte U, Abuah F, Whalen E, Timling I, Voight C, Taş N, Lloyd KG, Silganen HMP, Rivkina EM, Voříšková J, Tao J, Liang R, <u>Lennon JT</u>, Onstott TC (2025) Microbial ecology of permafrost soils: populations, processes, and perspectives. *Permaforst, and Periglacial Processes* ([pdf]({{ site.url }}/assets/publications/Waldrop_etal_2025.pdf))
+Waldrop MP, Ernakovich JG, Vishnivetskaya TA, Schaefer SR, Mackleprang R, Bara J, O'Brien JM, Winkel M, Barbato RA, Heffernan L, Leewis MC, Hewitt RE, Hultman J, Sun Y, Biasi C, Bradley JA, Liebner S, Ricketts MP, Muscarella ME, Schütte U, Abuah F, Whalen E, Timling I, Voight C, Taş N, Lloyd KG, Silganen HMP, Rivkina EM, Voříšková J, Tao J, Liang R, <u>Lennon JT</u>, Onstott TC (2025) Microbial ecology of permafrost soils: populations, processes, and perspectives. *Permaforst, and Periglacial Processes* 36: 245–258 ([pdf]({{ site.url }}/assets/publications/Waldrop_etal_2025.pdf))
 
 
 <!--- pub entry --->
@@ -169,7 +169,7 @@ Zhou X, <u>Lennon JT</u>, Lu X, Ruan A (2023) Anthropogenic activities mediate s
 
 
 <!--- pub entry --->		
-Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u> (2023) Human-gut phages harbor sporulation genes. *mBio* e0018223 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf)) 
+Schwartz DA, Rodríguez-Ramos J, Shaffer M, Flynn F, Daly R, Wrighton KC, <u>Lennon JT</u> (2023) Human-gut phages harbor sporulation genes. *mBio* 14: e0018223 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2023a.pdf)) 
 
 
 <!--- pub entry --->
