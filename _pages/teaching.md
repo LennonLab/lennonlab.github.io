@@ -39,7 +39,7 @@ nav: false
   <img src="{{ '/assets/images/microbiomes.bw.png' | relative_url }}" class="people-img" alt="L472">
   <div class="person-text">
     <strong>Microbiomes: host and environmental health</strong><br>
-    In this upper-level course, we cover fundamental concepts of ecology and evolutionary biology as they pertain to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a open resource on microbes and microbiology. Course offered in spring semesters.
+    In this upper-level course, we cover fundamental concepts of ecology and evolutionary biology as they pertain to microbial systems. In addition to lectures and discussion of papers from the primary literature, we engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/Category:Pages_edited_by_students_of_Jay_Lennon_at_Indiana_University">MicrobeWiki</a>, a open resource on microbes and microbiology. Course offered in spring semesters.
   </div>
 </div>
 <div class="person-row">

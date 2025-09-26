@@ -10,7 +10,7 @@ nav: false
 ---
 
 ---
-Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer [(see here)](https://policies.iu.edu/policies/ua-01-equal-opportunity-affirmative-action/index.html?_gl=1*fctwqy*_ga*NDQwODg2NjMwLjE3MTUwMDk2Mjk.*_ga_61CH0D2DQW*MTcxNTExMzA0NS4yLjAuMTcxNTExMzA0Ny41OC4wLjA.).
+Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer [(see here)](https://policies.iu.edu/policies/ua-01-non-discrimination/index.html#policyStatement).
 
 ---
 
