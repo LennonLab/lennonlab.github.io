@@ -18,17 +18,14 @@ Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-pr
 
 
 <!--- pub entry --->
-Janet K. Jansson, Avi I. Flamholz, Raquel Peixoto, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2025) Heterotrophic respiration by soil microbes in a changing climate.
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2025) Heterotrophic respiration by soil microbes in a changing climate.
 
-
-<!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean.
 
 <!--- pub entry --->
 Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding Microbial Biodiversity: Microbial Conservation Specialist Group (MCSG) within the Species Survival Commission of the International Union for Conservation of Nature (IUCN). In press at *Sustainble Microbiology*. 
 
 
-<!--- pub entry (needs to be updated--->
+<!--- pub entry --->
 Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
 
 * *mBio* 16: e02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
@@ -49,6 +46,9 @@ Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) G
 
 <!--- pub entry --->
 Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil *bioRxiv* [doi.org/10.1101/2025.05.22.654594](https://www.biorxiv.org/content/10.1101/2025.05.22.654594v1.full.pdf)
+
+<!--- pub entry --->
+Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technologys* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
 
 
 <!--- pub entry --->
