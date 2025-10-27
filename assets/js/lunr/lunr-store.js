@@ -36,7 +36,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "Publications",
-        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. bioRxiv doi:10.1101/2025.08.26.672491 Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. bioRxiv doi:10.1101/2025.08.21.671663 Janet K. Jansson, Avi I. Flamholz, Raquel Peixoto, Salles JF, Lennon JT, Rosado A,...","categories": [],
+        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. bioRxiv doi:10.1101/2025.08.26.672491 Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. bioRxiv doi:10.1101/2025.08.21.671663 Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR,...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": "/assets/images/plaques.png"
