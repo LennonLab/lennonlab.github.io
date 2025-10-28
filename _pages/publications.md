@@ -22,7 +22,11 @@ Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR,
 
 
 <!--- pub entry --->
-Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding Microbial Biodiversity: Microbial Conservation Specialist Group (MCSG) within the Species Survival Commission of the International Union for Conservation of Nature (IUCN). In press at *Sustainble Microbiology*. 
+Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN). In press at:
+
+* *Sustainble Microbiology*
+* *FEMS Microbiology Ecology*
+* *mSystems*
 
 
 <!--- pub entry --->
