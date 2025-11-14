@@ -22,6 +22,10 @@ Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR,
 
 
 <!--- pub entry --->
+Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MM, Lennon JT, Nguyen N, Gilbert JA, Peixoto RS, Zhou J. (2025) Microbial solutions for greenhouse gas emissions
+
+
+<!--- pub entry --->
 Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN). In press at:
 
 * *Sustainble Microbiology*
@@ -49,7 +53,8 @@ Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) G
 
 
 <!--- pub entry --->
-Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil *bioRxiv* [doi.org/10.1101/2025.05.22.654594](https://www.biorxiv.org/content/10.1101/2025.05.22.654594v1.full.pdf)
+Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
+
 
 <!--- pub entry --->
 Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technologys* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
