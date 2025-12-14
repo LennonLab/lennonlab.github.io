@@ -160,20 +160,30 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
+  <img src="{{ '/assets/images/LohmanHead.png' | relative_url }}" class="people-img" alt="Olivia">
   <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/james-batides-0ab09229b/" target="_blank" rel="noopener noreferrer">James Batides</a></strong><br>
-    Undergraduate <br> Bacteria, phage, evolution<br>
+    <strong><a href="https://www.linkedin.com/in/olivia-lohman-471206244/" target="_blank" rel="noopener noreferrer">Olivia Lohman</a></strong><br>
+    Undergraduate <br> Phage evolution<br>
   </div>
 </div>
 
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/LohmanHead.png' | relative_url }}" class="people-img" alt="Olivia">
+  <img src="{{ '/assets/images/MildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
   <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/olivia-lohman-471206244//" target="_blank" rel="noopener noreferrer">Olivia Lohman</a></strong><br>
-    Undergraduate <br> Phage evolution<br>
+    <strong><a href="https://www.linkedin.com/in/isabelle-mildor-061b9627a/" target="_blank" rel="noopener noreferrer">Isabelle Mildor</a></strong><br>
+    Undergraduate <br> Division of labor<br>
+  </div>
+</div>
+
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/BatidesHead.png' | relative_url }}" class="people-img" alt="James">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/james-batides-0ab09229b/" target="_blank" rel="noopener noreferrer">James Batides</a></strong><br>
+    Undergraduate <br> Bacteria, phage, evolution<br>
   </div>
 </div>
 
