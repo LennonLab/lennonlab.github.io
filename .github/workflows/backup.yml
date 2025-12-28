@@ -1,38 +1,32 @@
-name: Backup Token Debug
+name: Scheduled Backup
 
 on:
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
   workflow_dispatch:
 
 jobs:
-  debug:
+  backup:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout (for consistent runner env)
+      - name: Checkout source repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Debug: is BACKUP_TOKEN set?
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
+      - name: Prepare backup directory
         run: |
-          if [ -z "$API_TOKEN_GITHUB" ]; then
-            echo "API_TOKEN_GITHUB is NOT set"
-            exit 0
-          else
-            echo "API_TOKEN_GITHUB is set"
-          fi
+          # ensure we are at repo root and list files (for debugging)
+          pwd
+          ls -la
 
-      - name: Debug: test token access to destination repo
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
-        run: |
-          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
-            -H "Authorization: token $API_TOKEN_GITHUB" \
-            https://api.github.com/repos/LennonLab/lennonlab.github.backup)
-          echo "HTTP status: $STATUS"
-
-      - name: Debug: show token scopes
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
-        run: |
-          curl -s -I -H "Authorization: token $API_TOKEN_GITHUB" https://api.github.com/user \
-            | grep -i 'x-oauth-scopes' || true
+      - name: Push to backup repo
+        uses: cpina/github-action-push-to-another-repository@v1
+        with:
+          api_token_github: ${{ secrets.BACKUP_TOKEN }}
+          source-directory: '.'
+          destination-github-username: LennonLab
+          destination-repository-name: lennonlab.github.backup
+          user-email: backup@github.com
+          commit-message: 'Automated backup from lennonlab.github.io'
