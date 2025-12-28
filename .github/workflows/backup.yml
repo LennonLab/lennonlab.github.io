@@ -13,6 +13,17 @@ jobs:
       - name: Checkout source repo
         uses: actions/checkout@v4
 
+  - name: Debug: is BACKUP_TOKEN set?
+    run: |
+      if [ -z "$API_TOKEN_GITHUB" ]; then
+        echo "API_TOKEN_GITHUB is NOT set"
+        exit 1
+      else
+        echo "API_TOKEN_GITHUB is set"
+      fi
+    env:
+      API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
+
       - name: Push to backup repo
         uses: cpina/github-action-push-to-another-repository@v1
         env:
