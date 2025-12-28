@@ -2,7 +2,7 @@ name: Scheduled Backup
 
 on:
   schedule:
-    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
+    - cron: '0 2 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -15,18 +15,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Prepare backup directory
-        run: |
-          # ensure we are at repo root and list files (for debugging)
-          pwd
-          ls -la
-
       - name: Push to backup repo
         uses: cpina/github-action-push-to-another-repository@v1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
         with:
-          api_token_github: ${{ secrets.BACKUP_TOKEN }}
           source-directory: '.'
           destination-github-username: LennonLab
           destination-repository-name: lennonlab.github.backup
           user-email: backup@github.com
-          commit-message: 'Automated backup from lennonlab.github.io'
