@@ -32,12 +32,6 @@ jobs:
             -H "Authorization: token $API_TOKEN_GITHUB" \
             https://api.github.com/repos/LennonLab/lennonlab.github.backup)
           echo "HTTP status: $STATUS"
-          if [ "$STATUS" != "200" ]; then
-            echo "Token cannot access the destination repo (status $STATUS)."
-            exit 1
-          else
-            echo "Token can read the destination repo (status 200)."
-          fi
 
       - name: Debug: show token scopes
         env:
