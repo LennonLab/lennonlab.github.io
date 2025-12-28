@@ -7,30 +7,15 @@ jobs:
   debug:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Print token presence
+      - name: Check token presence
         env:
           API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
-        run: |
-          if [ -z "$API_TOKEN_GITHUB" ]; then
-            echo "API_TOKEN_GITHUB is NOT set"
-          else
-            echo "API_TOKEN_GITHUB is set"
-          fi
+        run: echo "API_TOKEN_GITHUB length=${#API_TOKEN_GITHUB}"
 
-      - name: Check repo access status
+      - name: Check repo access
         env:
           API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
         run: |
           curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
-            -H "Authorization: token $API_TOKEN_GITHUB" \
-            https://api.github.com/repos/LennonLab/lennonlab.github.backup
-
-      - name: Print token scopes header
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.BACKUP_TOKEN }}
-        run: |
-          curl -s -I -H "Authorization: token $API_TOKEN_GITHUB" https://api.github.com/user \
-            | grep -i 'x-oauth-scopes' || echo "X-OAuth-Scopes: (none)"
+          -H "Authorization: token $API_TOKEN_GITHUB" \
+          https://api.github.com/repos/LennonLab/lennonlab.github.backup
