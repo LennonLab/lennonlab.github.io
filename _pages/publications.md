@@ -31,9 +31,8 @@ Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius,
 * *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 * *mSystems* 10: e01505-25 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025b.pdf)) 
 * *Sustainble Microbiology* 2: qvaf024 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025c.pdf)) 
-* *FEMS Microbiology Ecology* 101: fiaf107 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
+* *FEMS Microbiology Ecology* 101: fiaf107 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025d.pdf)) 
 * *ISMEJ* 19: wraf239 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025e.pdf)) 
-
 
 
 <!--- pub entry --->
