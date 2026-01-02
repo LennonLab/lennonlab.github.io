@@ -26,9 +26,12 @@ Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MM, Lennon JT, Nguyen N
 
 
 <!--- pub entry --->
+Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Want F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
+
+
+<!--- pub entry --->
 Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN). In press at:
 
-* *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 * *mSystems* 10: e01505-25 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025b.pdf)) 
 * *Sustainble Microbiology* 2: qvaf024 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025c.pdf)) 
 * *FEMS Microbiology Ecology* 101: fiaf107 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025d.pdf)) 
