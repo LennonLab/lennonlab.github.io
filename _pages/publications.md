@@ -10,7 +10,7 @@ nav: false
 ---
 
 <!--- pub entry --->
-Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. *bioRxiv* [doi:10.1101/2025.08.26.672491](https://www.biorxiv.org/content/10.1101/2025.08.26.672491v1.full.pdf)
+Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. *bioRxiv* [doi:10.1101/2025.08.26.672491](https://www.biorxiv.org/content/10.1101/2025.08.26.672491v1.full.pdf) In press at *Proceedings of the National Academy of Sciences of the United States of America*
 
 
 <!--- pub entry --->
@@ -18,11 +18,7 @@ Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-pr
 
 
 <!--- pub entry --->
-Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2025) Heterotrophic respiration by soil microbes in a changing climate.
-
-
-<!--- pub entry --->
-Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MM, Lennon JT, Nguyen N, Gilbert JA, Peixoto RS, Zhou J. (2025) Microbial solutions for greenhouse gas emissions
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2025) Heterotrophic respiration by soil microbes in a changing climate. In review. 
 
 
 <!--- pub entry --->
@@ -30,7 +26,7 @@ Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh 
 
 
 <!--- pub entry --->
-Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN). In press at:
+Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN).
 
 * *mSystems* 10: e01505-25 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025b.pdf)) 
 * *Sustainble Microbiology* 2: qvaf024 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025c.pdf)) 
@@ -39,7 +35,7 @@ Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius,
 
 
 <!--- pub entry --->
-Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action 
+Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action.
 
 * *mBio* 16: e02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
 * *ISMEJ* 19: wraf199 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
@@ -86,8 +82,7 @@ Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R,
 
 
 <!--- pub entry --->
-Lennon JT and 32 others (2025) Colloquium report: Water, waterborne
-pathogens and public health: environmental drivers. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025c.pdf))
+Lennon JT and 32 others (2025) Colloquium report: Water, waterborne pathogens and public health: environmental drivers. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025c.pdf))
 
  
 <!--- pub entry --->
