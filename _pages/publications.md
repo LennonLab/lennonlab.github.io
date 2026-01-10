@@ -22,7 +22,7 @@ Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR,
 
 
 <!--- pub entry --->
-Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Want F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
+Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Want F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity. *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 
 
 <!--- pub entry --->
