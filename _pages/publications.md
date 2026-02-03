@@ -50,7 +50,7 @@ Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI
 
 
 <!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Geographical patterns and drivers of dissolved organic matter in the global ocean. *Research Square* [doi:10.21203/rs.3.rs-6624570/v1](https://assets-eu.researchsquare.com/files/rs-6624570/v1/a75822e6-0649-4c95-919e-3ba016f0bc96.pdf?c=1747022553)
+Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Geographical patterns and drivers of dissolved organic matter in the global ocean. *Research Square* [doi:10.21203/rs.3.rs-6624570/v1](https://www.researchsquare.com/article/rs-6624570/v1)
 
 
 <!--- pub entry --->
