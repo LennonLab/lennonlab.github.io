@@ -154,7 +154,7 @@ Beattie GA, Cotrufo FM, Crowther TW, Edlund A, Salles JF, Gilbert JK, Jansson JK
 
 
 <!--- pub entry --->	
-Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (2024) Thermal responses of dissolved organic matter under global change. *Nature Communications* 15: 576 (pdf](https://github.com/LennonLab/lennonlab.github.io/releases/download/pdf/Hu_etal_2024.pdf))
+Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (2024) Thermal responses of dissolved organic matter under global change. *Nature Communications* 15: 576 ([pdf](https://github.com/LennonLab/lennonlab.github.io/releases/download/pdf/Hu_etal_2024.pdf))
 
 
 <!--- pub entry --->
