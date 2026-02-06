@@ -10,7 +10,12 @@ nav: false
 ---
 
 <!--- pub entry --->
-Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. *bioRxiv* [doi:10.1101/2025.08.26.672491](https://www.biorxiv.org/content/10.1101/2025.08.26.672491v1.full.pdf) In press at *Proceedings of the National Academy of Sciences of the United States of America*
+Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. 
+*Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf))
+
+
+<!--- pub entry --->
+Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *bioRxiv* [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf) In Press at *ISMEJ*
 
 
 <!--- pub entry --->
@@ -22,7 +27,7 @@ Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR,
 
 
 <!--- pub entry --->
-Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Want F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity. *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
+Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity. *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 
 
 <!--- pub entry --->
@@ -47,10 +52,6 @@ Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom
 
 <!--- pub entry --->
 Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. *EcoEvoRxiv* [doi:10.32942/X2Z64W](https://ecoevorxiv.org/repository/view/9169/)
-
-
-<!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici SK, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Geographical patterns and drivers of dissolved organic matter in the global ocean. *Research Square* [doi:10.21203/rs.3.rs-6624570/v1](https://www.researchsquare.com/article/rs-6624570/v1)
 
 
 <!--- pub entry --->
@@ -83,10 +84,6 @@ Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R,
 
 <!--- pub entry --->
 Lennon JT and 32 others (2025) Colloquium report: Water, waterborne pathogens and public health: environmental drivers. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025c.pdf))
-
- 
-<!--- pub entry --->
-Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2024) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *bioRxiv* [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf)
 
 
 <!--- pub entry --->
