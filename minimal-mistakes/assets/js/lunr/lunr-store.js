@@ -36,7 +36,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "Publications",
-        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. bioRxiv doi:10.1101/2025.08.26.672491 In press at Proceedings of the National Academy of Sciences of the United States of America Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics....","categories": [],
+        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. Proceedings of the National Academy of Sciences of the United States of America 123: e2524274123 (pdf) Măgălie A, Marantos A, Schwartz DA, Marchi J, Lennon JT, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": "/assets/images/plaques.png"
