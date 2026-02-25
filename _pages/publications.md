@@ -15,7 +15,7 @@ Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporula
 
 
 <!--- pub entry --->
-Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *bioRxiv* [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf) In Press at *ISMEJ*
+Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *bioRxiv* [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf) In Press at *ISMEJ* 20: wrag023
 
 
 <!--- pub entry --->
@@ -59,7 +59,7 @@ Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive 
 
 
 <!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technologys* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
+Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technology* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
 
 
 <!--- pub entry --->
