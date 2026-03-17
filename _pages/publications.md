@@ -23,7 +23,11 @@ Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-pr
 
 
 <!--- pub entry --->
-Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2025) Heterotrophic respiration by soil microbes in a changing climate. In review. 
+Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MX, Lennon JT, Nguyen NK, Gilbert JA, Peixoto RS, Zhou J, Cheng L, Qin W, Yang Y (2026) Microbial solutions for greenhouse gas emissions. In review. 
+
+
+<!--- pub entry --->
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. In press at *Nature Reviews Earth & Environment*
 
 
 <!--- pub entry --->
@@ -55,7 +59,7 @@ Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI
 
 
 <!--- pub entry --->
-Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
+Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil. *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
 
 
 <!--- pub entry --->
@@ -63,11 +67,7 @@ Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (20
 
 
 <!--- pub entry --->
-Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C, Jansson J, Lennon JT, Souza V, Thomas T, Cowan D, Crowhter T, Nguyen N, Harper L, Haraoui LP, Ishaq SL, Redford K (2025) The IUCN Microbial Conservation Specialist Group (MCSG): A global framework for safeguarding microbial biodiversity. *Nature Microbiology* ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
-
-
-<!--- pub entry --->
-Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16: 10.1128/mbio.00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
+Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16:e00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
 
 
 <!--- pub entry --->
