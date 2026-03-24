@@ -15,7 +15,7 @@ Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporula
 
 
 <!--- pub entry --->
-Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *bioRxiv* [doi.org/10.1101/2024.05.22.595388](https://www.biorxiv.org/content/10.1101/2024.05.22.595388v1.full.pdf) In Press at *ISMEJ* 20: wrag023
+Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *ISMEJ* 20: wrag0232 ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2026.pdf))
 
 
 <!--- pub entry --->
@@ -59,7 +59,7 @@ Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI
 
 
 <!--- pub entry --->
-Bogar B, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil. *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
+Bogar G, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil. *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
 
 
 <!--- pub entry --->
