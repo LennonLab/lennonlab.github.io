@@ -19,7 +19,7 @@ Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026
 
 
 <!--- pub entry --->
-Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, Lennon JT, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
+Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, Lennon JT, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
 
 
 <!--- pub entry --->
