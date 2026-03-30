@@ -23,6 +23,10 @@ Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, Lennon JT, Martiny JBH,
 
 
 <!--- pub entry --->
+Howard MM, Bolin LG, Bogard GD, Evans SE, Lennon JT, Marquart-Pyatt, Lau JA. (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. In review. 
+
+
+<!--- pub entry --->
 Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. *bioRxiv* [doi:10.1101/2025.08.21.671663](https://www.biorxiv.org/content/10.1101/2025.08.21.671663v1.full.pdf)
 
 
