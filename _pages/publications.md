@@ -10,7 +10,7 @@ nav: false
 ---
 
 <!--- pub entry --->
-Karakoç C, Shoemaker WR, Lennon JT (2025) Evolutionary bioenergetics of sporulation. 
+Karakoç C, Shoemaker WR, <u>Lennon JT</u> (2026) Evolutionary bioenergetics of sporulation. 
 *Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf))
 
 
@@ -19,31 +19,31 @@ Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026
 
 
 <!--- pub entry --->
-Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, Lennon JT, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
+Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
 
 
 <!--- pub entry --->
-Howard MM, Bolin LG, Bogard GD, Evans SE, Lennon JT, Marquart-Pyatt, Lau JA. (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. In review. 
+Howard MM, Bolin LG, Bogard GD, Evans SE, <u>Lennon JT</u>, Marquart-Pyatt, Lau JA. (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. In review. 
 
 
 <!--- pub entry --->
-Mueller EA, van der Elst L, Gumennik A, Lennon JT (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. *bioRxiv* [doi:10.1101/2025.08.21.671663](https://www.biorxiv.org/content/10.1101/2025.08.21.671663v1.full.pdf)
+Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MX, <u>Lennon JT</u>, Nguyen NK, Gilbert JA, Peixoto RS, Zhou J, Cheng L, Qin W, Yang Y (2026) Microbial solutions for greenhouse gas emissions. In review. 
 
 
 <!--- pub entry --->
-Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MX, Lennon JT, Nguyen NK, Gilbert JA, Peixoto RS, Zhou J, Cheng L, Qin W, Yang Y (2026) Microbial solutions for greenhouse gas emissions. In review. 
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, <u>Lennon JT</u>, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. In press at *Nature Reviews Earth & Environment*
 
 
 <!--- pub entry --->
-Jansson JK, Flamholz AI, Peixoto RS, Salles JF, Lennon JT, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. In press at *Nature Reviews Earth & Environment*
+Mueller EA, van der Elst L, Gumennik A, <u>Lennon JT</u> (2025) The Enterostat: a 3D-printed bioreactor for simulating gut microbiome dynamics. *bioRxiv* [doi:10.1101/2025.08.21.671663](https://www.biorxiv.org/content/10.1101/2025.08.21.671663v1.full.pdf)
 
 
 <!--- pub entry --->
-Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C Wrighton K, Borenstin S, Jansson JK, Lennon JT, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity. *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
+Gilbert JA, Peixoto RS, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G, Singh B, Boetius A, Wang F, Greening C Wrighton K, Borenstin S, Jansson JK, <u>Lennon JT</u>, Souza V, Thomas T, Cown D, Crowther TW, Nguyen N, Harper L, Haraoui, L-P, Ishaw, SL, Redford K (2025) Launching the IUCN microbial conservation specialist group as a global safeguard for microbial biodiversity. *Nature Microbiology* 10: 2359–2360 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025a.pdf))
 
 
 <!--- pub entry --->
-Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, Lennon JT, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN).
+Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius, A, Wang F; Greening C, Wrighton K, Bordenstein S, Jansson JK, <u>Lennon JT</u>, Souza V, Allard Sarah, Thomas T, Cowan D, Crowther T, Nguyen N, Harper L, Haraoui, L-P, Ishaq S, Mcfall-Ngai M, Redford K, Peixoto RS (2025) Safeguarding microbial biodiversity: Microbial Conservation Specialist Group (MCSG) within the species survival commission of the International Union for Conservation of Nature (IUCN).
 
 * *mSystems* 10: e01505-25 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025b.pdf)) 
 * *Sustainble Microbiology* 2: qvaf024 ([pdf]({{ site.url }}/assets/publications/Gilbert_etal_2025c.pdf)) 
@@ -52,7 +52,7 @@ Gilbert JA, Scholz AH, Dominguez-Bello MG, Korsten L, Berg G ; Singh B; Boetius,
 
 
 <!--- pub entry --->
-Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action.
+<u>Lennon JT</u>, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom MM, Harper LV, Jansson JK, Jiao N, Kuurstra EM, Peixoto RS, Rappuoli R, Schembri MA, Ventosa A, Vullo DL, Zhang C, Nguyen NK (2025) Microbes without borders: uniting societies for climate action.
 
 * *mBio* 16: e02136-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025d.pdf)) 
 * *ISMEJ* 19: wraf199 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025e.pdf)) 
@@ -63,35 +63,35 @@ Lennon JT, Bittleston LS, Chen Q, Cooper VS, Fernández J, Gilbert JA, Häggblom
 
 
 <!--- pub entry --->
-Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, Lennon JT, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. *EcoEvoRxiv* [doi:10.32942/X2Z64W](https://ecoevorxiv.org/repository/view/9169/)
+Overcast I, Calderon-Sanou I, Creer S, Dominguez-Garcia V, Hagen O, Hickerson MI, Jörger-Hickfang T, Krehenwinkel H, <u>Lennon JT</u>, Méndez L, Méndez M, Onstein R, Pereira H, Qin C, Winter M, Yu DW, Zurell D, Gillespie RG (2025) The distribution of genetic diversity in ecological communities: A unifying measure for monitoring biodiversity change. *EcoEvoRxiv* [doi:10.32942/X2Z64W](https://ecoevorxiv.org/repository/view/9169/)
 
 
 <!--- pub entry --->
-Bogar G, Lennon JT, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil. *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
+Bogar G, <u>Lennon JT</u>, Vander Stel H, Evans SE (2025) Simple, rapid, and sensitive assay for the quantification of total polysaccharides to estimate extracellular polymeric substances (EPS) in soil. *Journal of Microbiological Methods* 239: 107324 ([pdf]({{ site.url }}/assets/publications/Bogar_etal_2025.pdf))
 
 
 <!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici S, Lu X, Lennon JT, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technology* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
+Wang J, Hu A, Cui Y, Bercovici S, Lu X, <u>Lennon JT</u>, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technology* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
 
 
 <!--- pub entry --->
-Lennon JT, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16:e00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
+<u>Lennon JT</u>, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16:e00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
 
 
 <!--- pub entry --->
-Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Microbes could help address climate change — why aren’t we using them? *Nature* 639: 864-866 ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025a.pdf))
+Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, <u>Lennon JT</u>, Peixoto RS, Silver PA, Stein LY. (2025) Microbes could help address climate change — why aren’t we using them? *Nature* 639: 864-866 ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025a.pdf))
 
 
 <!--- pub entry --->
-Lennon JT, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. *mSystems*: 10 10.1128/msystems.01517-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025b.pdf))
+<u>Lennon JT</u>, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. *mSystems*: 10 10.1128/msystems.01517-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025b.pdf))
 
 
 <!--- pub entry --->
-Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Lennon JT, Peixoto RS, Silver PA, Stein LY. (2025) Micobial solutions for climate change — Toward and economically resilient future. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025b.pdf))
+Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, <u>Lennon JT</u>, Peixoto RS, Silver PA, Stein LY. (2025) Micobial solutions for climate change — Toward and economically resilient future. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Rappuoli_etal_2025b.pdf))
 
 
 <!--- pub entry --->
-Lennon JT and 32 others (2025) Colloquium report: Water, waterborne pathogens and public health: environmental drivers. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025c.pdf))
+<u>Lennon JT</u> and 32 others (2025) Colloquium report: Water, waterborne pathogens and public health: environmental drivers. American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025c.pdf))
 
 
 <!--- pub entry --->
@@ -228,10 +228,10 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 <!--- pub entry --->
 Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2022) Phage-encoded sigma factors alter bacterial dormancy. *mSphere* e00927-22 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2022.pdf))	
 	
+	
 <!--- pub entry --->
 Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2022) Seed banks alter the molecular evolutionary dynamics of <i>Bacillus subtilis</i>. *Genetics* 221: iyac071 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2022.pdf))	
 	
-
 <!--- pub entry --->
 Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J, Lu X, Zhang Y, Shen J, Wang J (2022) Ecological networks of dissolved organic matter and microorganisms under global change. *Nature Communications* 13: 3699 ([pdf]({{ site.url }}/assets/publications/Hu_etal_2022a.pdf))
 	
@@ -245,6 +245,7 @@ Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT
 
 <!--- pub entry --->
 Shoemaker WR, <u>Lennon JT</u> (2022) Predicting parallelism and quantifying divergence in experimental evolution. *Sphere* 7: e00672-21 ([pdf]({{ site.url }}/assets/publications/Shoemaker_Lennon_2022.pdf))	
+
 	
 <!--- pub entry --->	
 Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. *Proceedings of the National Academy of Sciences of the United States of America* 118: e2101691118 ([pdf]({{ site.url }}/assets/publications/Shoemaker_etal_2021b.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Rillig_etal_2021.pdf), [Supplementary Information]({{ site.url }}/assets/publications/Shoemaker_etal_2021b_Suppl.pdf))
