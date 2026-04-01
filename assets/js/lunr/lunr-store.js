@@ -30,7 +30,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "People",
-        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; Bio&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Joy O'Brien Ph.D. candidate Microbial dormancy, virosporulation, permafrost soils El Park Ph.D....","categories": [],
+        "excerpt":"Jay T. Lennon Principal Investigator Google Scholar&nbsp;|&nbsp; ORCID&nbsp;|&nbsp; Bio&nbsp;|&nbsp; CV Jipeng Luo Postdoc Plant-microbe interactions, evolutionary genomics, soil remediation Emma Bueren Postdoc Bacteria-phage evolutionary ecology, host microbiomes Sungyun Kang Research Associate Molecular genetics, genomics, cell biology, transcription factors Joy O'Brien Ph.D. candidate Microbial dormancy, virosporulation, permafrost soils Anna Lennon Ph.D....","categories": [],
         "tags": [],
         "url": "/people/",
         "teaser": "/assets/images/plaques.png"
