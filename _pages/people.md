@@ -100,16 +100,6 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/jpark15/" target="_blank" rel="noopener noreferrer">El Park</a></strong><br>
-    Ph.D. student <br> Intracellular mechanisms of sporulation and phage infections<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
   <img src="{{ '/assets/images/LennonAHead.png' | relative_url }}" class="people-img" alt="Anna">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/anna-lennon-75aa42229/" target="_blank" rel="noopener noreferrer">Anna Lennon</a></strong><br>
@@ -130,10 +120,41 @@ nav: false
 
 
 <div class="person-row">
+  <img src="{{ '/assets/images/KubekHead.png' | relative_url }}" class="people-img" alt="Miranda">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/miranda-kubek-41702224a" target="_blank" rel="noopener noreferrer">Miranda Kubek</a></strong><br>
+    Ph.D. student <br> Global change, environmental microbiology, dormancy <br>
+  </div>
+</div>
+
+
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/jpark15/" target="_blank" rel="noopener noreferrer">El Park</a></strong><br>
+    Master's student <br> Sporulation and phage infections<br>
+  </div>
+</div>
+
+
+
+<div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
-    Undergraduate <br> Infection dynamics, bacteria-phage evolution<br>
+    Master's student <br> Infection dynamics, bacteria-phage evolution<br>
+  </div>
+</div>
+
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/MiildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/isabelle-mildor-061b9627a/" target="_blank" rel="noopener noreferrer">Isabelle Mildor</a></strong><br>
+    Master's student <br> Division of labor<br>
   </div>
 </div>
 
@@ -143,7 +164,7 @@ nav: false
   <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/mariana-simi/" target="_blank" rel="noopener noreferrer">Mariana Simi</a></strong><br>
-    Undergraduate (Honors thesis) <br> Microbiomes, thermal adapation, soil feedbacks<br>
+    Undergraduate (Honors thesis) <br> Microbial physiology, deep biosphere<br>
   </div>
 </div>
 
@@ -164,16 +185,6 @@ nav: false
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/olivia-lohman-471206244/" target="_blank" rel="noopener noreferrer">Olivia Lohman</a></strong><br>
     Undergraduate <br> Phage evolution<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
-  <img src="{{ '/assets/images/MildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/isabelle-mildor-061b9627a/" target="_blank" rel="noopener noreferrer">Isabelle Mildor</a></strong><br>
-    Undergraduate <br> Division of labor<br>
   </div>
 </div>
 
