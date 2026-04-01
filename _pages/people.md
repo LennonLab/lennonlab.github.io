@@ -151,7 +151,7 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/MiildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
+  <img src="{{ '/assets/images/MildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/isabelle-mildor-061b9627a/" target="_blank" rel="noopener noreferrer">Isabelle Mildor</a></strong><br>
     Master's student <br> Division of labor<br>
