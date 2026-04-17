@@ -19,6 +19,10 @@ Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026
 
 
 <!--- pub entry --->
+Mueller EA, <u>Lennon JT</u> (2026) Metabolic inequality in microbial communities. *bioRxiv* [doi.org/10.64898/2026.04.14.718602 ](https://www.biorxiv.org/content/10.64898/2026.04.14.718602v1) 
+
+
+<!--- pub entry --->
 Howard MM, Bolin LG, Bogar GD, Evans SE, <u>Lennon JT</u>, Marquart-Pyatt ST, Lau JA (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. *bioRxiv* [doi.org/10.64898/2026.04.02.715620 ](https://www.biorxiv.org/content/10.64898/2026.04.02.715620v1) 
 
 
