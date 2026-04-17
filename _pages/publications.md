@@ -19,15 +19,15 @@ Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026
 
 
 <!--- pub entry --->
-Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026) Transforming the American Academy of Microbiology for social good through scientific portfolios. In press at *mBIO* 
+Howard MM, Bolin LG, Bogar GD, Evans SE, <u>Lennon JT</u>, Marquart-Pyatt ST, Lau JA (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. *bioRxiv* [doi.org/10.64898/2026.04.02.715620 ](https://www.biorxiv.org/content/10.64898/2026.04.02.715620v1) 
+
+
+<!--- pub entry --->
+Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026) Transforming the American Academy of Microbiology for social good through scientific portfolios. In press at *mBio* 
 
 
 <!--- pub entry --->
 Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
-
-
-<!--- pub entry --->
-Howard MM, Bolin LG, Bogard GD, Evans SE, <u>Lennon JT</u>, Marquart-Pyatt, Lau JA. (2026) Microbe-mediated plant acclimation to drought may be rare in agriculture. In review. 
 
 
 <!--- pub entry --->
