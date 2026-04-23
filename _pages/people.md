@@ -129,17 +129,6 @@ nav: false
 
 
 
-
-<div class="person-row">
-  <img src="{{ '/assets/images/ParkHead.png' | relative_url }}" class="people-img" alt="El">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/jpark15/" target="_blank" rel="noopener noreferrer">El Park</a></strong><br>
-    Master's student <br> Sporulation and phage infections<br>
-  </div>
-</div>
-
-
-
 <div class="person-row">
   <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
@@ -210,6 +199,8 @@ nav: false
 *[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
 
 *[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
+
+*[El Park](https://www.linkedin.com/in/jpark15/)*, MS (Instructor, Indiana Universiy),<br>
 
 *[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D (Postdoc, University of Wisconsin-Milwaukee)<br>
 

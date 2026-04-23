@@ -11,7 +11,7 @@ nav: false
 
 <!--- pub entry --->
 Karakoç C, Shoemaker WR, <u>Lennon JT</u> (2026) Evolutionary bioenergetics of sporulation. 
-*Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf))
+*Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([PNAS Commentary]({{ site.url }}/assets/publications/Kempes_2026.pdf), [pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf))
 
 
 <!--- pub entry --->
