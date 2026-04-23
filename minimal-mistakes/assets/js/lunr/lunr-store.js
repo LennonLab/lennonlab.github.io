@@ -36,7 +36,7 @@ var store = [{
         "teaser": "/assets/images/plaques.png"
       },{
         "title": "Publications",
-        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2026) Evolutionary bioenergetics of sporulation. Proceedings of the National Academy of Sciences of the United States of America 123: e2524274123 (pdf) Măgălie A, Marantos A, Schwartz DA, Marchi J, Lennon JT, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in...","categories": [],
+        "excerpt":"Karakoç C, Shoemaker WR, Lennon JT (2026) Evolutionary bioenergetics of sporulation. Proceedings of the National Academy of Sciences of the United States of America 123: e2524274123 (PNAS Commentary, pdf) Măgălie A, Marantos A, Schwartz DA, Marchi J, Lennon JT, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": "/assets/images/plaques.png"
