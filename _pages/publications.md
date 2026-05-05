@@ -27,7 +27,7 @@ Howard MM, Bolin LG, Bogar GD, Evans SE, <u>Lennon JT</u>, Marquart-Pyatt ST, La
 
 
 <!--- pub entry --->
-Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026) Transforming the American Academy of Microbiology for social good through scientific portfolios. In press at *mBio* 
+Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026) Transforming the American Academy of Microbiology for social good through scientific portfolios. *mBio* 17: e00828-26 ([pdf]({{ site.url }}/assets/publications/Nguyen_etal_2026.pdf)) 
 
 
 <!--- pub entry --->
