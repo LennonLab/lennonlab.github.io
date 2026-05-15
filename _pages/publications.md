@@ -31,6 +31,11 @@ Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026
 
 
 <!--- pub entry --->
+<u>Lennon JT</u> and 32 others (2025) Colloquium report: Role of climate change on emerging and reemerging infectious diseases: from attribution to action in global health preparedness
+ American Society for Microbiology ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2026.pdf))
+
+
+<!--- pub entry --->
 Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
 
 
