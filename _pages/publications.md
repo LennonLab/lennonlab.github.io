@@ -84,11 +84,11 @@ Bogar G, <u>Lennon JT</u>, Vander Stel H, Evans SE (2025) Simple, rapid, and sen
 
 
 <!--- pub entry --->
-Wang J, Hu A, Cui Y, Bercovici S, Lu X, <u>Lennon JT</u>, Soininen J, Liu Y, Jiao N (2025) Towards the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technology* 59: 10.1021/acs.est.5c02477 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
+Wang J, Hu A, Cui Y, Bercovici S, Lu X, <u>Lennon JT</u>, Soininen J, Liu Y, Jiao N (2025) Toward the chemogeography of dissolved organic matter in the global ocean. *Environemtnal Science and Technology* 59: 23266–23274 ([pdf]({{ site.url }}/assets/publications/Wang_etal_2025.pdf))
 
 
 <!--- pub entry --->
-<u>Lennon JT</u>, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16:e00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
+<u>Lennon JT</u>, Rappuoli R, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R, Mukhopadhyay A, Nguyen N, Peixoto RS, Silver PA, Stein LY (2025) Microbial solutions for climate change require global partnership. *mBio* 16: e00778-25 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025a.pdf))
 
 
 <!--- pub entry --->
@@ -96,7 +96,7 @@ Rappuoli R, Nguyen N, Bloom DE, Brooks CG, Egamberdieva D, Lawley TD, Morhard R,
 
 
 <!--- pub entry --->
-<u>Lennon JT</u>, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. *mSystems*: 10 10.1128/msystems.01517-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025b.pdf))
+<u>Lennon JT</u>, Lehmkuhl BK, Chen L, Illingworth M, Kuo V, Muscarella ME (2025) Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria. *mSystems*: 10: e01517-24 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2025b.pdf))
 
 
 <!--- pub entry --->
@@ -133,7 +133,7 @@ Zang Z, Zhang C, Park KJ, Schwartz DA, Podicheti R, <u>Lennon JT</u>, Gerdt JP (
 
 
 <!--- pub entry --->
-Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR (2025) Soil microbiome interventions for carbon sequestration and climate mitigation. *mSystems*  10: e01129-24 ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2025.pdf)) 
+Beattie GA, Edlund A, Esiobu N, Gilbert J, Nicolaisen MH, Jansson JK, Jensen P, Keiluwei M, <u>Lennon JT</u>, Martiny JBH, Minnisi VR, Newmann D, Peixoto R, Schadt C, van der Meer JR (2025) Soil microbiome interventions for carbon sequestration and climate mitigation. *mSystems* 10: e01129-24 ([pdf]({{ site.url }}/assets/publications/Beattie_etal_2025.pdf)) 
 
 
 <!--- pub entry --->
@@ -221,6 +221,7 @@ Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, H
 <!--- pub entry --->
 McMullen JG, <u>Lennon JT</u> (2023) Mark-recapture of microorganisms. *Environmental Microbiology* 25: 150-157 ([pdf]({{ site.url }}/assets/publications/McMullen_Lennon_2023.pdf))	
 
+
 <!--- pub entry --->
 <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2023) Gut bioreactor and method for making the same. US Patent 11,840,681 B2 ([pdf)]({{ site.url }}/assets/publications/Lennon_etal_2023b.pdf)
 
@@ -239,7 +240,7 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 	
 	
 <!--- pub entry --->
-Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2022) Phage-encoded sigma factors alter bacterial dormancy. *mSphere* e00927-22 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2022.pdf))	
+Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2022) Phage-encoded sigma factors alter bacterial dormancy. *mSphere* 7: e00927-22 ([pdf]({{ site.url }}/assets/publications/Schwartz_etal_2022.pdf))	
 	
 	
 <!--- pub entry --->
@@ -265,7 +266,7 @@ Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</
 
 	
 <!--- pub entry --->	
-<u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. *Nature Communications* 2: 4807 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2021a.pdf))
+<u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. *Nature Communications* 12: 4807 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2021a.pdf))
 	
 	
 <!--- pub entry --->
@@ -309,7 +310,7 @@ Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) D
 
 
 <!--- pub entry --->
-<u>Lennon JT</u> (2020) Microbial life underfoot. *mBio* 11:e03201-19 ([pdf]({{ site.url }}/assets/publications/Lennon_2020.pdf))
+<u>Lennon JT</u> (2020) Microbial life underfoot. *mBio* 11: e03201-19 ([pdf]({{ site.url }}/assets/publications/Lennon_2020.pdf))
 
 
 <!--- pub entry --->
@@ -357,7 +358,7 @@ Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lenno
 
 
 <!--- pub entry --->
-<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. *mBio* 9:e00637-18 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2018.pdf))
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. *mBio* 9: e00637-18 ([pdf]({{ site.url }}/assets/publications/Lennon_etal_2018.pdf))
 
 
 <!--- pub entry --->
