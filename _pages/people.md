@@ -160,9 +160,9 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/RadfordHead.png' | relative_url }}" class="people-img" alt="Nicholas">
+  <img src="{{ '/assets/images/KeaneHead.png' | relative_url }}" class="people-img" alt="Nicholas">
   <div class="person-text">
-    <strong>Nicholas Radford</strong><br>
+    <strong>Eamon Keane</strong><br>
     Undergraduate <br> Division of labor, microbial mutualisms<br>
   </div>
 </div>
@@ -301,6 +301,8 @@ nav: false
 #### Undergraduate Researchers
 ---
 *[Miranda Kubek](https://www.linkedin.com/in/miranda-kubek-41702224a)*, Reed College<br>
+
+*Nicholas Radford*, Indiana University<br>
 
 *[Jocelyn Crockett](https://www.linkedin.com/in/jocelyn-crockett-126b09300/)* Indiana University<br>
 
