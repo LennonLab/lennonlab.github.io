@@ -130,16 +130,6 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
-    Master's student <br> Infection dynamics, bacteria-phage evolution<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
   <img src="{{ '/assets/images/MildorHead.png' | relative_url }}" class="people-img" alt="Isabelle">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/isabelle-mildor-061b9627a/" target="_blank" rel="noopener noreferrer">Isabelle Mildor</a></strong><br>
@@ -150,10 +140,20 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/SimiHead.png' | relative_url }}" class="people-img" alt="Mariana">
+  <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
   <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/mariana-simi/" target="_blank" rel="noopener noreferrer">Mariana Simi</a></strong><br>
-    Undergraduate (Honors thesis) <br> Microbial physiology, deep biosphere<br>
+    <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
+    Master's student <br> Infection dynamics, bacteria-phage evolution<br>
+  </div>
+</div>
+
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/NelenthiHead.png' | relative_url }}" class="people-img" alt="Apeksha">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/apeksha-uthpali-a860951b3/" target="_blank" rel="noopener noreferrer">Apeksha Uthpali Nelenthi</a></strong><br>
+    Master's student <br> Mirobial ecology and evolution<br>
   </div>
 </div>
 
@@ -194,15 +194,17 @@ nav: false
 
 #### Postdocs and Graduate Students
 ---
-*[John McMullen](https://www.linkedin.com/in/john-mcmullen2)*, Postdoc (Research Scientist, Bayer)<br>
-
 *[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
+
+*[John McMullen](https://www.linkedin.com/in/john-mcmullen2)*, Postdoc (Research Scientist, Bayer)<br>
 
 *[Daniel Schwartz](https://www.linkedin.com/in/danschw/)*, Postdoc (Microbiologist, DSM)<br>
 
 *[El Park](https://www.linkedin.com/in/jpark15/)*, MS (Instructor, Indiana Universiy),<br>
 
 *[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D (Postdoc, University of Wisconsin-Milwaukee)<br>
+
+*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician<br>
 
 *[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
@@ -300,6 +302,9 @@ nav: false
 
 #### Undergraduate Researchers
 ---
+
+*[Mariana Simi](https://www.linkedin.com/in/mariana-simi/)*, Indiana University<br>
+
 *[Miranda Kubek](https://www.linkedin.com/in/miranda-kubek-41702224a)*, Reed College<br>
 
 *Nicholas Radford*, Indiana University<br>
