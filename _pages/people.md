@@ -197,7 +197,7 @@ nav: false
 
 *[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D. (Postdoc, University of Wisconsin-Milwaukee)<br>
 
-*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, MS (Biologist, <br>
+*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, MS (Biologist, Eli Lilly)<br>
 
 *[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
