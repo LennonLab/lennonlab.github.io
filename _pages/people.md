@@ -195,9 +195,9 @@ nav: false
 
 *[El Park](https://www.linkedin.com/in/jpark15/)*, MS (Instructor, Indiana Universiy),<br>
 
-*[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D (Postdoc, University of Wisconsin-Milwaukee)<br>
+*[Emmi Mueller](https://emmiamueller.weebly.com/about-me.html)*, Ph.D. (Postdoc, University of Wisconsin-Milwaukee)<br>
 
-*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician<br>
+*[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, MS (Biologist, <br>
 
 *[Pat Wall](https://www.linkedin.com/in/pat-wall-56a082185/)*, MS (Research Asssistant, University of Michigan)<br>
 
