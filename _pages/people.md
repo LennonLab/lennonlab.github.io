@@ -70,16 +70,6 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/BuerenHead.png' | relative_url }}" class="people-img" alt="Emma">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/emmabueren/" target="_blank" rel="noopener noreferrer">Emma Bueren</a></strong><br>
-    Postdoc <br> Bacteria-phage evolutionary ecology, host microbiomes<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
   <img src="{{ '/assets/images/KangHead.png' | relative_url }}" class="people-img" alt="Sungyun">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/sungyun-kang-14b69229/" target="_blank" rel="noopener noreferrer">Sungyun Kang</a></strong><br>
@@ -194,6 +184,9 @@ nav: false
 
 #### Postdocs and Graduate Students
 ---
+
+*[Emma Bueren](https://www.linkedin.com/in/emmabueren/)*, Postdoc (Assistant Professor, University of Wisconsin Oshkosh)<br>
+
 *[Canan Karacoç](https://canankarakoc.netlify.app/)*, Postdoc (Research Scholar, Georgia Institute of Technology)<br>
 
 *[John McMullen](https://www.linkedin.com/in/john-mcmullen2)*, Postdoc (Research Scientist, Bayer)<br>
@@ -212,7 +205,7 @@ nav: false
 
 *[Roy Moger-Reischer](https://www.linkedin.com/in/roy-moger-reischer/)*, Ph.D. (Scientist, Arzeda)<br>
 
-*[Will Shoemaker](https://wrshoemaker.github.io/)*, Ph.D. (Postdoc, Abdus Salam International Centre for Theoretical Physics)<br>
+*[Will Shoemaker](https://wrshoemaker.github.io/)*, Ph.D. (Junior Professor, Institute Of Biology François Jacob)<br>
 
 *[Nathan Wisnoski](https://www.nathanwisnoski.com/)*, Ph.D. (Assistant Professor, Mississippi State University)<br>
 
