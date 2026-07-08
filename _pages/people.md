@@ -152,7 +152,7 @@ nav: false
 <div class="person-row">
   <img src="{{ '/assets/images/KeaneHead.png' | relative_url }}" class="people-img" alt="Nicholas">
   <div class="person-text">
-    <strong>Eamon Keane</strong><br>
+    <strong>Eamonn Keane</strong><br>
     Undergraduate <br> Division of labor, microbial mutualisms<br>
   </div>
 </div>
@@ -221,7 +221,7 @@ nav: false
 
 *[Kevin Webster](https://websterkgd.com/)*, Ph.D. (Assistant Professor, Diné College)<br>
 
-*[Mario Muscarella](https://muscarellalab.github.io/)*, Ph.D. (Assistant Professor, University of Alaska Fairbanks)<br>
+*[Mario Muscarella](https://muscarellalab.github.io/)*, Ph.D. (Associate Professor, University of Alaska Fairbanks)<br>
 
 *[Megan Larsen](https://www.linkedin.com/in/meganllarsen/)*, Ph.D. (Data Scientist, Pivot Bio)<br>
 
