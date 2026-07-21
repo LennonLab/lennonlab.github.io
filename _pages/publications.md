@@ -11,7 +11,11 @@ nav: false
 
 <!--- pub entry --->
 Karakoç C, Shoemaker WR, <u>Lennon JT</u> (2026) Evolutionary bioenergetics of sporulation. 
-*Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([PNAS Commentary]({{ site.url }}/assets/publications/Kempes_2026.pdf), [pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf))
+*Proceedings of the National Academy of Sciences of the United States of America* 123: e2524274123 ([pdf]({{ site.url }}/assets/publications/Karakoc_etal_2026.pdf), [PNAS Commentary]({{ site.url }}/assets/publications/Kempes_2026.pdf))
+
+
+<!--- pub entry --->
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, <u>Lennon JT</u>, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. *Nature Reviews Earth & Environment* 7: xxx-xxx ([pdf]({{ site.url }}/assets/publications/Jansson_etal_2026.pdf))
 
 
 <!--- pub entry --->
@@ -41,10 +45,6 @@ Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Marti
 
 <!--- pub entry --->
 Stein LY, Zhang K, Ning D, Brooke C, Thomas T, Häggblom MX, <u>Lennon JT</u>, Nguyen NK, Gilbert JA, Peixoto RS, Zhou J, Cheng L, Qin W, Yang Y (2026) Microbial solutions for greenhouse gas emissions. In review. 
-
-
-<!--- pub entry --->
-Jansson JK, Flamholz AI, Peixoto RS, Salles JF, <u>Lennon JT</u>, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. In press at *Nature Reviews Earth & Environment*
 
 
 <!--- pub entry --->
