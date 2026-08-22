@@ -15,8 +15,11 @@ Karakoç C, Shoemaker WR, <u>Lennon JT</u> (2026) Evolutionary bioenergetics of 
 
 
 <!--- pub entry --->
-Jansson JK, Flamholz AI, Peixoto RS, Salles JF, <u>Lennon JT</u>, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. *Nature Reviews Earth & Environment* 7: xxx-xxx ([pdf]({{ site.url }}/assets/publications/Jansson_etal_2026.pdf))
+Jansson JK, Flamholz AI, Peixoto RS, Salles JF, <u>Lennon JT</u>, Rosado A, Sanders IR, Jacobsen CS, Makhalanyane T, Schadt C, Gilbert JA (2026) Heterotrophic respiration by soil microbes in a changing climate. *Nature Reviews Earth & Environment* 7: 494–510 ([pdf]({{ site.url }}/assets/publications/Jansson_etal_2026.pdf))
 
+
+<!--- pub entry --->
+Hu A, Cui Y, Bercovici S, Tanentzap AJ, <u>Lennon JT</u>, Lin S, Yang Y, Liu Y, Osterholz H, Dong H, Lu Y, Jiao N, Wang J (2026) Responses of dissolved organic matter to temperature change in the global ocean. *bioRxiv* [doi.org/10.1101/2024.09.06.611638](https://www.biorxiv.org/content/10.1101/2024.09.06.611638v2)
 
 <!--- pub entry --->
 Măgălie A, Marantos A, Schwartz DA, Marchi J, <u>Lennon JT</u>, Weitz JS (2026) Phage infection fronts trigger early sporulation and collective defense in bacterial populations. *ISMEJ* 20: wrag0232 ([pdf]({{ site.url }}/assets/publications/Magalie_etal_2026.pdf))
@@ -40,7 +43,8 @@ Nguyen NK, Burckhardt RM, Casadevall A, Bertuzzi S, Sperandio V, Lennon JT (2026
 
 
 <!--- pub entry --->
-Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *EcoEvoRxiv* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) 
+Edlund A, Beattie GA, Salles JF, Gilbert JA, Jansson JK, <u>Lennon JT</u>, Martiny JBH, Sanders IR, Schadt CW, Jacobsen CS, Sullivan M. (2026) Microbial inoculants for soil restoration: a practical framework for risk-governed stewardship. *Sustainable Microbiology* [doi.org/10.32942/X2QH3F](https://ecoevorxiv.org/repository/view/12249/) ([pdf]({{ site.url }}/assets/publications/Edlund_etal_2026.pdf))
+
 
 
 <!--- pub entry --->
