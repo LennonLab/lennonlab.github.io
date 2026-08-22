@@ -130,16 +130,6 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/MugooviHead.png' | relative_url }}" class="people-img" alt="Henock">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/henock-mugoovi-61b019259/" target="_blank" rel="noopener noreferrer">Henock Mugoovi</a></strong><br>
-    Master's student <br> Infection dynamics, bacteria-phage evolution<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
   <img src="{{ '/assets/images/NelenthiHead.png' | relative_url }}" class="people-img" alt="Apeksha">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/apeksha-uthpali-a860951b3/" target="_blank" rel="noopener noreferrer">Apeksha Uthpali Nelenthi</a></strong><br>
@@ -154,16 +144,6 @@ nav: false
   <div class="person-text">
     <strong>Eamonn Keane</strong><br>
     Undergraduate <br> Division of labor, microbial mutualisms<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
-  <img src="{{ '/assets/images/LohmanHead.png' | relative_url }}" class="people-img" alt="Olivia">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/olivia-lohman-471206244/" target="_blank" rel="noopener noreferrer">Olivia Lohman</a></strong><br>
-    Undergraduate <br> Phage evolution<br>
   </div>
 </div>
 
@@ -295,10 +275,11 @@ nav: false
 
 #### Undergraduate Researchers
 ---
+*[Henock Mugoovi] (https://www.linkedin.com/in/henock-mugoovi-61b019259/)*, Indiana University<br>
 
 *[Mariana Simi](https://www.linkedin.com/in/mariana-simi/)*, Indiana University<br>
 
-*[Miranda Kubek](https://www.linkedin.com/in/miranda-kubek-41702224a)*, Reed College<br>
+*[Olivia Lohman](https://www.linkedin.com/in/olivia-lohman-471206244/)*, Indiana University<br>
 
 *Nicholas Radford*, Indiana University<br>
 
