@@ -275,7 +275,7 @@ nav: false
 
 #### Undergraduate Researchers
 ---
-*[Henock Mugoovi] (https://www.linkedin.com/in/henock-mugoovi-61b019259/)*, Indiana University<br>
+*[Henock Mugoovi](https://www.linkedin.com/in/henock-mugoovi-61b019259/)*, Indiana University<br>
 
 *[Mariana Simi](https://www.linkedin.com/in/mariana-simi/)*, Indiana University<br>
 
