@@ -130,12 +130,13 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/KeaneHead.png' | relative_url }}" class="people-img" alt="Nicholas">
+  <img src="{{ '/assets/images/KeaneHead.png' | relative_url }}" class="people-img" alt="Eamonn">
   <div class="person-text">
-    <strong>Eamonn Keane</strong><br>
+    <strong><a href="https://www.linkedin.com/in/eamonn-keane-bd2004/" target="_blank" rel="noopener noreferrer">Eamonn Keane</a></strong><br>
     Undergraduate <br> Division of labor, microbial mutualisms<br>
   </div>
 </div>
+
 
 
 
