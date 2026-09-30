@@ -130,16 +130,6 @@ nav: false
 
 
 <div class="person-row">
-  <img src="{{ '/assets/images/NelenthiHead.png' | relative_url }}" class="people-img" alt="Apeksha">
-  <div class="person-text">
-    <strong><a href="https://www.linkedin.com/in/apeksha-uthpali-a860951b3/" target="_blank" rel="noopener noreferrer">Apeksha Uthpali Nelenthi</a></strong><br>
-    Master's student <br> Mirobial ecology and evolution<br>
-  </div>
-</div>
-
-
-
-<div class="person-row">
   <img src="{{ '/assets/images/KeaneHead.png' | relative_url }}" class="people-img" alt="Nicholas">
   <div class="person-text">
     <strong>Eamonn Keane</strong><br>
@@ -157,6 +147,15 @@ nav: false
   </div>
 </div>
 
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/SehgalHead.png' | relative_url }}" class="people-img" alt="Jayin">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/jayin-sehgal-28b932364/" target="_blank" rel="noopener noreferrer">Jayin Sehgal</a></strong><br>
+    Undergraduate <br> Mirobial ecology and evolution<br>
+  </div>
+</div>
 
 <hr>
 
@@ -235,6 +234,8 @@ nav: false
 
 #### Research Technicians and Assistants
 ---
+*[Apeksha Uthpali Nelenthi](https://www.linkedin.com/in/apeksha-uthpali-a860951b3/)*, Technician<br>
+
 *[Jasmine Ahmed](https://www.linkedin.com/in/jasminecahmed)*, Technician<br>
 
 *[Brent Lehmkuhl](https://www.linkedin.com/in/brent-lehmkuhl-764b3b127/)*, Technician<br>
