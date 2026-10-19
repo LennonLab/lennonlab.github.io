@@ -154,7 +154,16 @@ nav: false
   <img src="{{ '/assets/images/SehgalHead.png' | relative_url }}" class="people-img" alt="Jayin">
   <div class="person-text">
     <strong><a href="https://www.linkedin.com/in/jayin-sehgal-28b932364/" target="_blank" rel="noopener noreferrer">Jayin Sehgal</a></strong><br>
-    Undergraduate <br> Mirobial ecology and evolution<br>
+    Undergraduate <br> Bacteria-phage intereactions<br>
+  </div>
+</div>
+
+
+<div class="person-row">
+  <img src="{{ '/assets/images/AntonyHead.png' | relative_url }}" class="people-img" alt="Sarah">
+  <div class="person-text">
+    <strong><a href="https://www.linkedin.com/in/sarah-antony-863818227/" target="_blank" rel="noopener noreferrer">Sarah Antony</a></strong><br>
+    Undergraduate <br> Microbial and cell biology<br>
   </div>
 </div>
 
