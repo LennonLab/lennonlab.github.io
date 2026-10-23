@@ -32,7 +32,7 @@ nav: false
   <img src="{{ '/assets/images/QB.bw.png' | relative_url }}" class="people-img" alt="QB">
   <div class="person-text">
     <strong>Quantitative Biodiversity (QB)</strong><br>
-    In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., <a href="https://github.com/QuantitativeBiodiversity">GitHub</a>). See <a href="https://qbiodiversity.netlify.app/">course website</a> for more information.
+    In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. We calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. We use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., <a href="https://github.com/QuantitativeBiodiversity">GitHub</a>). See <a href="https://quantitativebiodiversity.github.io/summary//">course website</a> for more information.
   </div>
 </div>
 <div class="person-row">
