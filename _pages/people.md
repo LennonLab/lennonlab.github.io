@@ -173,6 +173,7 @@ nav: false
 
 #### Postdocs and Graduate Students
 ---
+*[Henock Mugoovi](https://www.linkedin.com/in/henock-mugoovi-61b019259/)*, MS (Assistant Professor, University of Wisconsin Oshkosh) <br>
 
 *[Emma Bueren](https://www.linkedin.com/in/emmabueren/)*, Postdoc (Assistant Professor, University of Wisconsin Oshkosh)<br>
 
